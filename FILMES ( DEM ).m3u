@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="(Des) Encontros - 2019 (CINEMA) (Leg)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uoth0IKghbABnQSNH0trrPY47lH.jpg" group-title="Filmes: Romance",(Des) Encontros - 2019 (CINEMA) (Leg)
-http://main.icontv.in:80/movie/eliellopes/eliel123/70914.mp4
 #EXTINF:-1 tvg-id="" tvg-name="007: A Servico Secreto Da Sua Majestade" tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/dFIX4ZDjpcGwGvOSVrWxboBZAzb.jpg" group-title="Filmes: Ação",007: A Servico Secreto Da Sua Majestade
 http://main.icontv.in:80/movie/eliellopes/eliel123/26885.mp4
 #EXTINF:-1 tvg-id="" tvg-name="007: Cassino Royale" tvg-logo="https://s2.glbimg.com/cygPgZn0lABrBxosvNa121VHDVE=/0x600/s.glbimg.com/po/tt2/f/original/2014/09/11/b870eca4012c456212313b030e0a.jpeg" group-title="Filmes: Ação",007: Cassino Royale
@@ -93,14 +91,14 @@ http://main.icontv.in:80/movie/eliellopes/eliel123/61550.mkv
 http://main.icontv.in:80/movie/eliellopes/eliel123/26962.mp4
 #EXTINF:-1 tvg-id="" tvg-name="300: Ascensão Do Império" tvg-logo="http://main.icontv.in:80/images/gWQf5j3ZqEfOdW2rIZnkuOOva78_small.jpg" group-title="Filmes: Ação",300: Ascensão Do Império
 http://main.icontv.in:80/movie/eliellopes/eliel123/26963.mp4
-#EXTINF:-1 tvg-id="" tvg-name="3022 (Audio NOFC)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7EKGHMsm3nv87wvlqD7HBZYgAeP.jpg" group-title="Filmes: Ficção",3022 (Audio NOFC)
-http://main.icontv.in:80/movie/eliellopes/eliel123/69192.mp4
 #EXTINF:-1 tvg-id="" tvg-name="6 Balões" tvg-logo="http://main.icontv.in:80/images/aqSQCTtehs7bF8VhpnAtrP5yUo_small.jpg" group-title="Filmes: Drama",6 Balões
 http://main.icontv.in:80/movie/eliellopes/eliel123/32568.mp4
 #EXTINF:-1 tvg-id="" tvg-name="7 Desejos" tvg-logo="http://main.icontv.in:80/images/LPDsiiHkIlk3NKfMBSwWVrkJ4zlJTnJH.jpg" group-title="Filmes: Terror",7 Desejos
 http://main.icontv.in:80/movie/eliellopes/eliel123/46481.mp4
 #EXTINF:-1 tvg-id="" tvg-name="7 Dias Em Entebbe" tvg-logo="http://main.icontv.in:80/images/nrC63ikbK4jDp3knvBqxPoWYEMM_small.jpg" group-title="Filmes: Drama",7 Dias Em Entebbe
 http://main.icontv.in:80/movie/eliellopes/eliel123/46384.mp4
+#EXTINF:-1 tvg-id="" tvg-name="7 Minutos na Escuridão (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKky6k7xs1JZfeS2AtbBUhHkRze.jpg" group-title="Filmes: Terror",7 Minutos na Escuridão (2018)
+http://main.icontv.in:80/movie/eliellopes/eliel123/71215.mp4
 #EXTINF:-1 tvg-id="" tvg-name="7 Splinters in Time" tvg-logo="http://main.icontv.in:80/images/w4LIGgNyxf0AuzIjouECWsNEehW_small.jpg" group-title="Filmes: Suspense",7 Splinters in Time
 http://main.icontv.in:80/movie/eliellopes/eliel123/47240.mp4
 #EXTINF:-1 tvg-id="" tvg-name="8 Mulheres E Um Segredo" tvg-logo="http://main.icontv.in:80/images/MvYpKlpFukTivnlBhizGbkAe3v_small.jpg" group-title="Filmes: Crime",8 Mulheres E Um Segredo
@@ -121,6 +119,8 @@ http://main.icontv.in:80/movie/eliellopes/eliel123/70799.mp4
 http://main.icontv.in:80/movie/eliellopes/eliel123/62242.mkv
 #EXTINF:-1 tvg-id="" tvg-name="A Barraca Do Beijo" tvg-logo="http://main.icontv.in:80/images/7Dktk2ST6aL8h9Oe5rpk903VLhx_small.jpg" group-title="Filmes: Comédia",A Barraca Do Beijo
 http://main.icontv.in:80/movie/eliellopes/eliel123/37700.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Beautiful Place to Die: A Martha's Vineyard Mystery (2020) (Leg)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3FGGJh5S9G29YGIRYqe3zca40yL.jpg" group-title="Filmes: Mistério",A Beautiful Place to Die: A Martha's Vineyard Mystery (2020) (Leg)
+http://main.icontv.in:80/movie/eliellopes/eliel123/71108.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Bela E A Fera" tvg-logo="http://main.icontv.in:80/images/tWqifoYuwLETmmasnGHO7xBjEtt_small.jpg" group-title="Filmes: Fantasia",A Bela E A Fera
 http://main.icontv.in:80/movie/eliellopes/eliel123/27480.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Bíblia do Diabo" tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/tNUldOVuPsXwtRlyLEVnlYFSP0i.jpg" group-title="Filmes: Documentário",A Bíblia do Diabo
@@ -145,6 +145,8 @@ http://main.icontv.in:80/movie/eliellopes/eliel123/47241.mp4
 http://main.icontv.in:80/movie/eliellopes/eliel123/47114.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Caçada" tvg-logo="http://main.icontv.in:80/images/5FTPcvpWh86xExOC8dFpuU1gSP7_small.jpg" group-title="Filmes: Crime",A Caçada
 http://main.icontv.in:80/movie/eliellopes/eliel123/61458.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Chance de Fahim (2019) (CINEMA) (Audio NOFC)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7HYU8LIhnavtdeeu6ANjnX4HsZj.jpg" group-title="Filmes: Drama",A Chance de Fahim (2019) (CINEMA) (Audio NOFC)
+http://main.icontv.in:80/movie/eliellopes/eliel123/71199.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Chantagem" tvg-logo="http://main.icontv.in:80/images/gIClWRv5OSe8rl5Koi0AeUcCZ9Z_small.jpg" group-title="Filmes: Crime",A Chantagem
 http://main.icontv.in:80/movie/eliellopes/eliel123/47081.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Chegada" tvg-logo="http://main.icontv.in:80/images/hLudzvGfpi6JlwUnsNhXwKKg4j_small.jpg" group-title="Filmes: Suspense",A Chegada
@@ -189,6 +191,8 @@ http://main.icontv.in:80/movie/eliellopes/eliel123/59921.mkv
 http://main.icontv.in:80/movie/eliellopes/eliel123/69096.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Escolha Perfeita 3" tvg-logo="http://main.icontv.in:80/images/fchHLsLjFvzAFSQykiMwdF1051_small.jpg" group-title="Filmes: Comédia",A Escolha Perfeita 3
 http://main.icontv.in:80/movie/eliellopes/eliel123/62192.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Espada Era a Lei (1963)" tvg-logo="http://main.icontv.in:80/images/6bbc63197028b317eb37344b498192d7.jpg" group-title="Filmes: Animação",A Espada Era a Lei (1963)
+http://main.icontv.in:80/movie/eliellopes/eliel123/71186.mkv
 #EXTINF:-1 tvg-id="" tvg-name="A Espera De Um Milagre" tvg-logo="http://main.icontv.in:80/images/sOHqdY1RnSn6kcfAHKu28jvTebE_small.jpg" group-title="Filmes: Drama",A Espera De Um Milagre
 http://main.icontv.in:80/movie/eliellopes/eliel123/27484.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Espia que Sabia de Menos - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2qPESZsKsYefzUizlsNZ1nGBiyB.jpg" group-title="Filmes: Ação",A Espia que Sabia de Menos - 2015
@@ -199,7 +203,7 @@ http://main.icontv.in:80/movie/eliellopes/eliel123/27027.mp4
 http://main.icontv.in:80/movie/eliellopes/eliel123/49499.mkv
 #EXTINF:-1 tvg-id="" tvg-name="A Familia Do Bagulho" tvg-logo="http://main.icontv.in:80/images/digXuLXmk88Ar23LYUQTLcz5npA_small.jpg" group-title="Filmes: Comédia",A Familia Do Bagulho
 http://main.icontv.in:80/movie/eliellopes/eliel123/41663.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Família Addams (CINEMA)" tvg-logo="http://main.icontv.in:80/images/s1RtVO8uZ8em60rL2qGnnoVT7CvzieaT.jpg" group-title="Filmes: Animação",A Família Addams (CINEMA)
+#EXTINF:-1 tvg-id="" tvg-name="A Família Addams " tvg-logo="http://main.icontv.in:80/images/s1RtVO8uZ8em60rL2qGnnoVT7CvzieaT.jpg" group-title="Filmes: Animação",A Família Addams
 http://main.icontv.in:80/movie/eliellopes/eliel123/68346.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Favorita" tvg-logo="http://main.icontv.in:80/images/cwBq0onfmeilU5xgqNNjJAMPfpw_small.jpg" group-title="Filmes: Drama",A Favorita
 http://main.icontv.in:80/movie/eliellopes/eliel123/61451.mkv
@@ -333,6 +337,8 @@ http://main.icontv.in:80/movie/eliellopes/eliel123/22946.mp4
 http://main.icontv.in:80/movie/eliellopes/eliel123/18058.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Outra Filha" tvg-logo="https://filmestorrents.ninja/wp-content/uploads/2019/04/A-Outra-Filha-Torrent-2019-Dual-%C3%81udio-Dublado-WEB-DL-1080p-%E2%80%93-Download.png" group-title="Filmes: Suspense",A Outra Filha
 http://main.icontv.in:80/movie/eliellopes/eliel123/63059.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A palavra de Pablo (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4fSD3wa1FNDIwBwAXjlUImjk7dq.jpg" group-title="Filmes: Suspense",A palavra de Pablo (2017)
+http://main.icontv.in:80/movie/eliellopes/eliel123/71234.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Partida Final" tvg-logo="http://main.icontv.in:80/images/2t607Td4rLuT0rCWtpI4uKGK9Md_small.jpg" group-title="Filmes: Documentário",A Partida Final
 http://main.icontv.in:80/movie/eliellopes/eliel123/45302.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Pele Fria" tvg-logo="http://main.icontv.in:80/images/yYDNVAckvOHH9v6EGVB73cMyZgZ_small.jpg" group-title="Filmes: Ficção",A Pele Fria
@@ -429,8 +435,6 @@ http://main.icontv.in:80/movie/eliellopes/eliel123/69078.mp4
 http://main.icontv.in:80/movie/eliellopes/eliel123/39055.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Acabando com o Sossego" tvg-logo="http://main.icontv.in:80/images/1hVjwCDRa01fSh27nmXXrc1VGMa_small.jpg" group-title="Filmes: Comédia",Acabando com o Sossego
 http://main.icontv.in:80/movie/eliellopes/eliel123/59812.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Acceleration - 2019 (Audio NOFC)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qx3khck1M7Qfrq7Ost8zGzL4EOe.jpg" group-title="Filmes: Ação",Acceleration - 2019 (Audio NOFC)
-http://main.icontv.in:80/movie/eliellopes/eliel123/69281.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Achados e Perdidos" tvg-logo="http://main.icontv.in:80/images/v4QpsixO59FTtn51eESDmUmHQnC_small.jpg" group-title="Filmes: Crime",Achados e Perdidos
 http://main.icontv.in:80/movie/eliellopes/eliel123/61552.avi
 #EXTINF:-1 tvg-id="" tvg-name="Acorrentados" tvg-logo="http://main.icontv.in:80/images/eKQZE6p6KfyZlKc5K5cX3FVqv8UVmwzn.jpg" group-title="Filmes: Terror",Acorrentados
@@ -565,6 +569,8 @@ http://main.icontv.in:80/movie/eliellopes/eliel123/26973.mp4
 http://main.icontv.in:80/movie/eliellopes/eliel123/60223.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Angry Birds 2" tvg-logo="http://main.icontv.in:80/images/hsntK5NYHoVV4ASc2dry3GjoOl5dScAm.jpg" group-title="Filmes: Animação",Angry Birds 2
 http://main.icontv.in:80/movie/eliellopes/eliel123/68341.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anhedonia (2019) (Leg)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4D2l5or9e39jf3Fcd25OJ2iNqXq.jpg" group-title="Filmes: Drama",Anhedonia (2019) (Leg)
+http://main.icontv.in:80/movie/eliellopes/eliel123/71107.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Animais Fantasticos E Onde Habitam" tvg-logo="http://main.icontv.in:80/images/1M91Bt3oGspda75H9eLqYZkJzgO_small.jpg" group-title="Filmes: Aventura",Animais Fantasticos E Onde Habitam
 http://main.icontv.in:80/movie/eliellopes/eliel123/27509.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Animais Fantásticos: Os Crimes de Grindelwald" tvg-logo="http://main.icontv.in:80/images/fMMrl8fD9gRCFJvsx0SuFwkEOop_small.jpg" group-title="Filmes: Drama",Animais Fantásticos: Os Crimes de Grindelwald
@@ -629,6 +635,8 @@ http://main.icontv.in:80/movie/eliellopes/eliel123/69196.mp4
 http://main.icontv.in:80/movie/eliellopes/eliel123/37986.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Arvore de Sangue" tvg-logo="http://main.icontv.in:80/images/lK77I9Cxz52cZnh1nQXtcLjkoaN_small.jpg" group-title="Filmes: Drama",Arvore de Sangue
 http://main.icontv.in:80/movie/eliellopes/eliel123/58754.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arábia (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2k36QHFX6Q3LsvDNB7vjdaFUxjR.jpg" group-title="Filmes: Drama",Arábia (2018)
+http://main.icontv.in:80/movie/eliellopes/eliel123/71071.mp4
 #EXTINF:-1 tvg-id="" tvg-name="As Aventuras de Brigsby Bear" tvg-logo="http://main.icontv.in:80/images/_small.jpg" group-title="Filmes: Comédia",As Aventuras de Brigsby Bear
 http://main.icontv.in:80/movie/eliellopes/eliel123/46466.mp4
 #EXTINF:-1 tvg-id="" tvg-name="As Aventuras De Paddington 2" tvg-logo="http://main.icontv.in:80/images/gnXaUxdKD2t1B74cutWA5rjBLgD_small.jpg" group-title="Filmes: Familia",As Aventuras De Paddington 2
@@ -661,12 +669,10 @@ http://main.icontv.in:80/movie/eliellopes/eliel123/18033.mp4
 http://main.icontv.in:80/movie/eliellopes/eliel123/59925.mp4
 #EXTINF:-1 tvg-id="" tvg-name="As Leis da Termodinamica" tvg-logo="http://main.icontv.in:80/images/mtGxNRKQoQauWJkkRlnhvkEwyB9_small.jpg" group-title="Filmes: Romance",As Leis da Termodinamica
 http://main.icontv.in:80/movie/eliellopes/eliel123/49416.mkv
-#EXTINF:-1 tvg-id="" tvg-name="As Loucuras de Rose - 2019 (LEG)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jabNNsw8p025dhkxlaMdV3gPTJ4.jpg" group-title="Filmes: Comédia",As Loucuras de Rose - 2019 (LEG)
-http://main.icontv.in:80/movie/eliellopes/eliel123/69821.mp4
 #EXTINF:-1 tvg-id="" tvg-name="As Mães De Chico Xavier" tvg-logo="http://main.icontv.in:80/images/9znC61R03glG9UV0YqtRg97L9Mf_small.jpg" group-title="Filmes: Drama",As Mães De Chico Xavier
 http://main.icontv.in:80/movie/eliellopes/eliel123/38042.mp4
-#EXTINF:-1 tvg-id="" tvg-name="As Panteras 2019 (CINEMA)" tvg-logo="http://main.icontv.in:80/images/hE6dkDpCiod105wuiO73jlr1L9TQfolI.jpg" group-title="Filmes: Ação",As Panteras 2019 (CINEMA)
-http://main.icontv.in:80/movie/eliellopes/eliel123/68379.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Panteras (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9jdMSIPbwK0wgjuOQz0AvkYQ4M3.jpg" group-title="Filmes: Ação",As Panteras (2019)
+http://main.icontv.in:80/movie/eliellopes/eliel123/71245.mp4
 #EXTINF:-1 tvg-id="" tvg-name="As Tartarugas Ninja: O Retorno" tvg-logo="http://main.icontv.in:80/images/4hGzZ2DAjdu6IjHT7dGfiVatHEu_small.jpg" group-title="Filmes: Animação",As Tartarugas Ninja: O Retorno
 http://main.icontv.in:80/movie/eliellopes/eliel123/22517.mp4
 #EXTINF:-1 tvg-id="" tvg-name="As Viúvas" tvg-logo="http://main.icontv.in:80/images/d31SGJSaX29ba5ZUbZcesGoDE7I_small.jpg" group-title="Filmes: Crime",As Viúvas
@@ -727,12 +733,18 @@ http://main.icontv.in:80/movie/eliellopes/eliel123/32049.mp4
 http://main.icontv.in:80/movie/eliellopes/eliel123/32050.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Aventura Perigosa" tvg-logo="http://main.icontv.in:80/images/yj1cwfb6LFIIBcgBMZkbUjTvSPP_small.jpg" group-title="Filmes: Suspense",Aventura Perigosa
 http://main.icontv.in:80/movie/eliellopes/eliel123/27597.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aventuras de Betty (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7BqqpNdlhEVZeVGwlEPGT0HPeJo.jpg" group-title="Filmes: Animação",Aventuras de Betty (2020)
+http://main.icontv.in:80/movie/eliellopes/eliel123/71095.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aves de Rapina: Arlequina e sua Emancipação Fantabulosa (2020) (CINEMA)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oFfDC7ouX63C2hj6LsF9Cm7A5Nb.jpg" group-title="Filmes: Ação",Aves de Rapina: Arlequina e sua Emancipação Fantabulosa (2020) (CINEMA)
+http://main.icontv.in:80/movie/eliellopes/eliel123/71141.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Baahubali 2: Conclusão" tvg-logo="http://main.icontv.in:80/images/sXf30F2HFpsFPXlNz7jpOySSV9I_small.jpg" group-title="Filmes: Ação",Baahubali 2: Conclusão
 http://main.icontv.in:80/movie/eliellopes/eliel123/47093.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Baahubali : O Inicio" tvg-logo="http://main.icontv.in:80/images/sXf30F2HFpsFPXlNz7jpOySSV9I_small.jpg" group-title="Filmes: Ação",Baahubali : O Inicio
 http://main.icontv.in:80/movie/eliellopes/eliel123/47092.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Babel" tvg-logo="http://main.icontv.in:80/images/fxneN0EQZwTfAfhTGUvUuIn6PLi_small.jpg" group-title="Filmes: Drama",Babel
 http://main.icontv.in:80/movie/eliellopes/eliel123/63070.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Baby Monitor Murders (2020) (Audio NOFC)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/93OqswujTaNeNCST8dFyhryf5xH.jpg" group-title="Filmes: Suspense",Baby Monitor Murders (2020) (Audio NOFC)
+http://main.icontv.in:80/movie/eliellopes/eliel123/71109.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Backtrace" tvg-logo="http://main.icontv.in:80/images/2M1M8nhWZ9jNiYTodEwuqCWOnjc_small.jpg" group-title="Filmes: Crime",Backtrace
 http://main.icontv.in:80/movie/eliellopes/eliel123/51374.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Bacurau" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3qDNUMLOHXvG4nOajPIfPbOqL5I.jpg" group-title="Filmes: Drama",Bacurau
@@ -781,12 +793,12 @@ http://main.icontv.in:80/movie/eliellopes/eliel123/61726.mkv
 http://main.icontv.in:80/movie/eliellopes/eliel123/25566.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Bent" tvg-logo="http://main.icontv.in:80/images/_small.jpg" group-title="Filmes: Crime",Bent
 http://main.icontv.in:80/movie/eliellopes/eliel123/37989.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bernardo e Bianca na Terra dos Cangurus (1990)" tvg-logo="http://main.icontv.in:80/images/2960ad39940d985401f77b1ae0763501.jpg" group-title="Filmes: Animação",Bernardo e Bianca na Terra dos Cangurus (1990)
+http://main.icontv.in:80/movie/eliellopes/eliel123/71187.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Bernie, o Golfinho - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pbpB4sHSOKHCsagcImO5I4RODmm.jpg" group-title="Filmes: Familia",Bernie, o Golfinho - 2018
 http://main.icontv.in:80/movie/eliellopes/eliel123/69664.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Bethany" tvg-logo="http://main.icontv.in:80/images/3ORqj8fco3X9krHlZ5bQ0jT38RcGYYb9.jpg" group-title="Filmes: Terror",Bethany
 http://main.icontv.in:80/movie/eliellopes/eliel123/59926.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Beyond the Law - 2019 (Audio NOFC)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8eZjVbENNMZjqkmBWOTSLU8v7td.jpg" group-title="Filmes: Ação",Beyond the Law - 2019 (Audio NOFC)
-http://main.icontv.in:80/movie/eliellopes/eliel123/70521.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Bia 2.0" tvg-logo="http://main.icontv.in:80/images/qovxyp1QbwN179Ay65zQYDjNsuV_small.jpg" group-title="Filmes: Romance",Bia 2.0
 http://main.icontv.in:80/movie/eliellopes/eliel123/61549.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Big Hero 6: Os Novos Heróis" tvg-logo="http://main.icontv.in:80/images/9gLu47Zw5ertuFTZaxXOvNfy78T_small.jpg" group-title="Filmes: Animação",Big Hero 6: Os Novos Heróis
@@ -803,8 +815,6 @@ http://main.icontv.in:80/movie/eliellopes/eliel123/47097.mp4
 http://main.icontv.in:80/movie/eliellopes/eliel123/49650.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Black 47 (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gZiu9RIcMeQLUaDVqQffQTl6bhy.jpg" group-title="Filmes: Faroeste",Black 47 (2018)
 http://main.icontv.in:80/movie/eliellopes/eliel123/70933.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Black and Blue - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fjmMu9fpqMMF17mCyLhNfkagKB0.jpg" group-title="Filmes: Ação",Black and Blue - 2019
-http://main.icontv.in:80/movie/eliellopes/eliel123/70554.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Black Water" tvg-logo="http://main.icontv.in:80/images/tIcZAB5AmRN8fIDXfDZ2aUok9qa_small.jpg" group-title="Filmes: Ação",Black Water
 http://main.icontv.in:80/movie/eliellopes/eliel123/49171.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Blade Runner" tvg-logo="http://main.icontv.in:80/images/5ig0kdWz5kxR4PHjyCgyI5khCzd_small.jpg" group-title="Filmes: Drama",Blade Runner
@@ -1103,6 +1113,8 @@ http://main.icontv.in:80/movie/eliellopes/eliel123/36020.mp4
 http://main.icontv.in:80/movie/eliellopes/eliel123/37010.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Cordeiros E Carrascos" tvg-logo="http://main.icontv.in:80/images/wHH4Q0TKPy9cmCXLjfpnOJXCysP_small.jpg" group-title="Filmes: Drama",Cordeiros E Carrascos
 http://main.icontv.in:80/movie/eliellopes/eliel123/32570.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cores da Justiça (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8O76234aBjceZCEOWmpnj7hnhtv.jpg" group-title="Filmes: Ação",Cores da Justiça (2019)
+http://main.icontv.in:80/movie/eliellopes/eliel123/70554.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Corgi: Top Dog - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cDLd8vegIkGoV7U0r1QKDSKl8SP.jpg" group-title="Filmes: Animação",Corgi: Top Dog - 2019
 http://main.icontv.in:80/movie/eliellopes/eliel123/69453.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Coringa 2019" tvg-logo="https://image.tmdb.org/t/p/w300/tBvR4eJGb81CYYpc6uWrJMkLwd1.jpg" group-title="Filmes: Drama",Coringa 2019
@@ -1139,7 +1151,7 @@ http://main.icontv.in:80/movie/eliellopes/eliel123/57883.mkv
 http://main.icontv.in:80/movie/eliellopes/eliel123/59791.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Crime e Paixão" tvg-logo="http://main.icontv.in:80/images/tQwrMEWfWnezNgn39VuYAFMfgLY_small.jpg" group-title="Filmes: Ação",Crime e Paixão
 http://main.icontv.in:80/movie/eliellopes/eliel123/45828.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Crime Sem Saída - 2019 (CINEMA)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p5hT6NV4B1eU50v4h9HWocn9X2m.jpg" group-title="Filmes: Crime",Crime Sem Saída - 2019 (CINEMA)
+#EXTINF:-1 tvg-id="" tvg-name="Crime Sem Saída - 2019 " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p5hT6NV4B1eU50v4h9HWocn9X2m.jpg" group-title="Filmes: Crime",Crime Sem Saída - 2019
 http://main.icontv.in:80/movie/eliellopes/eliel123/69685.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Crimes na Escola" tvg-logo="http://main.icontv.in:80/images/j5CNWCRvYonv4jMukmMe267T3Cr_small.jpg" group-title="Filmes: Drama",Crimes na Escola
 http://main.icontv.in:80/movie/eliellopes/eliel123/56920.mkv
@@ -1223,6 +1235,8 @@ http://main.icontv.in:80/movie/eliellopes/eliel123/61455.mkv
 http://main.icontv.in:80/movie/eliellopes/eliel123/42837.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Delirios do Passado" tvg-logo="http://main.icontv.in:80/images/j2jIkjrASnjtwCmCNDwh9LDWvq9_small.jpg" group-title="Filmes: Suspense",Delirios do Passado
 http://main.icontv.in:80/movie/eliellopes/eliel123/51565.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Delorean - Do Motor ao Crime (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jOjyC0eUa0PvyQYkigSjrjQwj2g.jpg" group-title="Filmes: Suspense",Delorean - Do Motor ao Crime (2019)
+http://main.icontv.in:80/movie/eliellopes/eliel123/71057.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Democracia em Vertigem " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hrpL7VJW6jHW7cDilpRINLIPzg9.jpg" group-title="Filmes: Documentário",Democracia em Vertigem
 http://main.icontv.in:80/movie/eliellopes/eliel123/69102.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Demon House" tvg-logo="http://main.icontv.in:80/images/80gFuW9wIeKEaswSspSGjSEOcDE_small.jpg" group-title="Filmes: Terror",Demon House
@@ -1359,6 +1373,8 @@ http://main.icontv.in:80/movie/eliellopes/eliel123/14647.mp4
 http://main.icontv.in:80/movie/eliellopes/eliel123/68353.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Down a Dark Hall" tvg-logo="http://main.icontv.in:80/images/wErHaJrD1QZ2FEVneH6w0GZUz2L_small.jpg" group-title="Filmes: Mistério",Down a Dark Hall
 http://main.icontv.in:80/movie/eliellopes/eliel123/47406.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Down River (2018) (Audio NOFC)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7hM9glBVa7G9bT0PqC1zQQVstl7.jpg" group-title="Filmes: Guerra",Down River (2018) (Audio NOFC)
+http://main.icontv.in:80/movie/eliellopes/eliel123/71198.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Downrange" tvg-logo="http://main.icontv.in:80/images/xt0eS8lLIo2URK3vpEu9c5dMUbN_small.jpg" group-title="Filmes: Terror",Downrange
 http://main.icontv.in:80/movie/eliellopes/eliel123/42891.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Downton Abbey Live! - 2019" tvg-logo="https://image.tmdb.org/t/p/original/GKwlyqCV53PuxWVR6ivjvKbgtW.jpg" group-title="Filmes: Romance",Downton Abbey Live! - 2019
@@ -1475,8 +1491,12 @@ http://main.icontv.in:80/movie/eliellopes/eliel123/42903.mp4
 http://main.icontv.in:80/movie/eliellopes/eliel123/21582.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Enrolados" tvg-logo="http://main.icontv.in:80/images/re6AOJbhBk9FIK3knwU6rYlbPDx_small.jpg" group-title="Filmes: Animação",Enrolados
 http://main.icontv.in:80/movie/eliellopes/eliel123/22513.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Entre Amores e Cores (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xFJp0AipzYQkVdbzzOErTNzJKCG.jpg" group-title="Filmes: Romance",Entre Amores e Cores (2019)
+http://main.icontv.in:80/movie/eliellopes/eliel123/71117.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Entre As Sombras" tvg-logo="http://main.icontv.in:80/images/A4gJEE1zpImXE8MYkeq4sB69mfZ_small.jpg" group-title="Filmes: Mistério",Entre As Sombras
 http://main.icontv.in:80/movie/eliellopes/eliel123/42589.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Entre Facas e Segredos (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m4juV2DJ0TiiQEgcz6iCiLRx09W.jpg" group-title="Filmes: Mistério",Entre Facas e Segredos (2019)
+http://main.icontv.in:80/movie/eliellopes/eliel123/71140.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Entre Idas E Vindas" tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/JRGJqmRKkp6u1K8bGQljIcVXPa.jpg" group-title="Filmes: Romance",Entre Idas E Vindas
 http://main.icontv.in:80/movie/eliellopes/eliel123/38002.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Entre Mortos e Vivos" tvg-logo="http://main.icontv.in:80/images/buFygRmKCjOTuorRwtF22rHftvJ_small.jpg" group-title="Filmes: Comédia",Entre Mortos e Vivos
@@ -1485,6 +1505,8 @@ http://main.icontv.in:80/movie/eliellopes/eliel123/45187.mp4
 http://main.icontv.in:80/movie/eliellopes/eliel123/68410.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Entre Nós" tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/mGRmPzb41mQmoznOajp96CnXutb.jpg" group-title="Filmes: Drama",Entre Nós
 http://main.icontv.in:80/movie/eliellopes/eliel123/38003.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Entre Realidades (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/avg1yyBcliKER3xV80A1qbv3KPC.jpg" group-title="Filmes: Drama",Entre Realidades (2020)
+http://main.icontv.in:80/movie/eliellopes/eliel123/71139.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Entrevista com Deus" tvg-logo="http://main.icontv.in:80/images/d9TeB8VLCgwSph2OSYK3lcHGf1f_small.jpg" group-title="Filmes: Drama",Entrevista com Deus
 http://main.icontv.in:80/movie/eliellopes/eliel123/49418.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Então Eu Te Conheci" tvg-logo="http://main.icontv.in:80/images/73atVJhv6FkGAdgicw1Jf0Hf9Tf_small.jpg" group-title="Filmes: Comédia",Então Eu Te Conheci
@@ -1525,6 +1547,8 @@ http://main.icontv.in:80/movie/eliellopes/eliel123/50740.avi
 http://main.icontv.in:80/movie/eliellopes/eliel123/69271.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Estado De Calamidade" tvg-logo="http://main.icontv.in:80/images/2qf4wJoaYAXwY0Lov4OfBhSGbTQ_small.jpg" group-title="Filmes: Ação",Estado De Calamidade
 http://main.icontv.in:80/movie/eliellopes/eliel123/33749.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Estrada de Sonhos (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/12YpKqcJgeQGttX4D9P9L3p9S7E.jpg" group-title="Filmes: História",Estrada de Sonhos (2015)
+http://main.icontv.in:80/movie/eliellopes/eliel123/71243.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Estrada Maldita" tvg-logo="http://main.icontv.in:80/images/pEVChTdLzgXO1fBvlSYFsukWlP4_small.jpg" group-title="Filmes: Terror",Estrada Maldita
 http://main.icontv.in:80/movie/eliellopes/eliel123/21587.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Estrada para Perdição" tvg-logo="http://main.icontv.in:80/images/jn0GH8klINSQtRNifY8W2Kv4ajl_small.jpg" group-title="Filmes: Crime",Estrada para Perdição
@@ -1621,8 +1645,6 @@ http://main.icontv.in:80/movie/eliellopes/eliel123/68381.mp4
 http://main.icontv.in:80/movie/eliellopes/eliel123/44168.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Fort Apache" tvg-logo="http://main.icontv.in:80/images/5gUwQGHsLDb72wlbkiSyRUO7QA3_small.jpg" group-title="Filmes: Faroeste",Fort Apache
 http://main.icontv.in:80/movie/eliellopes/eliel123/59888.mkv
-#EXTINF:-1 tvg-id="" tvg-name="FP2: Beats of Rage (2018) (Leg)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fEKn95kpgJmsVBuVCfd2P6QeZLe.jpg" group-title="Filmes: Ação",FP2: Beats of Rage (2018) (Leg)
-http://main.icontv.in:80/movie/eliellopes/eliel123/70937.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Fragmentado" tvg-logo="http://main.icontv.in:80/images/rXMWOZiCt6eMX22jWuTOSdQ98bY_small.jpg" group-title="Filmes: Terror",Fragmentado
 http://main.icontv.in:80/movie/eliellopes/eliel123/27479.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Fratura" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vsvmurub7aShF1PIFJS2l2D5ArS.jpg" group-title="Filmes: Suspense",Fratura
@@ -1643,6 +1665,8 @@ http://main.icontv.in:80/movie/eliellopes/eliel123/41908.mp4
 http://main.icontv.in:80/movie/eliellopes/eliel123/57973.mkv
 #EXTINF:-1 tvg-id="" tvg-name="G I Joe A Origem de Cobra" tvg-logo="http://main.icontv.in:80/images/29eW5c5DaCFQejdt9V14RrA51yD_small.jpg" group-title="Filmes: Ação",G I Joe A Origem de Cobra
 http://main.icontv.in:80/movie/eliellopes/eliel123/61470.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gabriel Medina (2020)" tvg-logo="https://viatorrents.com/capas/gabriel-medina-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="Filmes: Documentário",Gabriel Medina (2020)
+http://main.icontv.in:80/movie/eliellopes/eliel123/71110.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Galinha Pintadinha – 10 Anos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ib1NrTPO0Zw2G8pglxfnerMCpgF.jpg" group-title="Filmes: Animação",Galinha Pintadinha – 10 Anos
 http://main.icontv.in:80/movie/eliellopes/eliel123/68865.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Game Over: Kasparov And The Machine" tvg-logo="http://main.icontv.in:80/images/wisqqJr1tBfoHugYibwOgfktgMT_small.jpg" group-title="Filmes: Documentário",Game Over: Kasparov And The Machine
@@ -1707,10 +1731,10 @@ http://main.icontv.in:80/movie/eliellopes/eliel123/69057.mp4
 http://main.icontv.in:80/movie/eliellopes/eliel123/47109.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Gran Torino - 2008" tvg-logo="https://posterspy.com/wp-content/uploads/2019/02/grantorino-genzo-1280.jpg" group-title="Filmes: Drama",Gran Torino - 2008
 http://main.icontv.in:80/movie/eliellopes/eliel123/69630.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Grand Isle - 2019 (Audio NOFC)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8mcXb3km7hZ8aJKpxxgnvvxt9gW.jpg" group-title="Filmes: Ação",Grand Isle - 2019 (Audio NOFC)
-http://main.icontv.in:80/movie/eliellopes/eliel123/70522.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Gravidade" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eHLufJ1bHy4PtEBJdPSTu4jIhZ0.jpg" group-title="Filmes: Ficção",Gravidade
 http://main.icontv.in:80/movie/eliellopes/eliel123/69105.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Graças a Deus (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pGON91viglFuiug8BIue0JADxI7.jpg" group-title="Filmes: Drama",Graças a Deus (2019)
+http://main.icontv.in:80/movie/eliellopes/eliel123/71105.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Gremlins 2 A Nova Geração" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1t6shWxcKxKxkpjOSrDKv4zmorx.jpg" group-title="Filmes: Aventura",Gremlins 2 A Nova Geração
 http://main.icontv.in:80/movie/eliellopes/eliel123/69076.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Gremlins O Pequeno Monstro " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5t16qsvUmksew50X0o6D5y0lrJM.jpg" group-title="Filmes: Aventura",Gremlins O Pequeno Monstro
@@ -1755,8 +1779,6 @@ http://main.icontv.in:80/movie/eliellopes/eliel123/63427.mp4
 http://main.icontv.in:80/movie/eliellopes/eliel123/49255.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Hardware" tvg-logo="http://main.icontv.in:80/images/nsFm5xniViTVr1oVUpKmgvlAOEA_small.jpg" group-title="Filmes: Terror",Hardware
 http://main.icontv.in:80/movie/eliellopes/eliel123/46430.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Harriet - 2019 (Audio NOFC)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4M6hxvrWol8R6NjNAFWtMx1Pr6v.jpg" group-title="Filmes: História",Harriet - 2019 (Audio NOFC)
-http://main.icontv.in:80/movie/eliellopes/eliel123/70523.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Harry Potter E A Câmara Secreta" tvg-logo="http://main.icontv.in:80/images/sdEOH0992YZ0QSxgXNIGLq1ToUi_small.jpg" group-title="Filmes: Fantasia",Harry Potter E A Câmara Secreta
 http://main.icontv.in:80/movie/eliellopes/eliel123/18121.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Harry Potter E A Ordem Da Fênix" tvg-logo="http://main.icontv.in:80/images/4YnLxYLHhT4UQ8i9jxAXWy46Xuw_small.jpg" group-title="Filmes: Fantasia",Harry Potter E A Ordem Da Fênix
@@ -1857,6 +1879,8 @@ http://main.icontv.in:80/movie/eliellopes/eliel123/28794.mp4
 http://main.icontv.in:80/movie/eliellopes/eliel123/27482.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Hércules" tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/wGAWxOnVjwXqvoiKX7Pf6XOWnPJ.jpg" group-title="Filmes: Ação",Hércules
 http://main.icontv.in:80/movie/eliellopes/eliel123/22469.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hércules (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5toowyq562LYw9VTstf0K2PZhDI.jpg" group-title="Filmes: Animação",Hércules (1997)
+http://main.icontv.in:80/movie/eliellopes/eliel123/71237.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Icarus" tvg-logo="http://main.icontv.in:80/images/x5azMi1KvZWbBbfjmGqpHNGqjH_small.jpg" group-title="Filmes: Documentário",Icarus
 http://main.icontv.in:80/movie/eliellopes/eliel123/47111.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Ice Man 2: O Viajante do Tempo" tvg-logo="http://main.icontv.in:80/images/xiGY4EXnz2kKXKoO1WOJLGW2jNd_small.jpg" group-title="Filmes: Ação",Ice Man 2: O Viajante do Tempo
@@ -1875,8 +1899,6 @@ http://main.icontv.in:80/movie/eliellopes/eliel123/42584.mp4
 http://main.icontv.in:80/movie/eliellopes/eliel123/18166.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Imperium: Resistência Sem Líder" tvg-logo="http://main.icontv.in:80/images/aRRLpsusORQxOpFkZvXdk00TkoY_small.jpg" group-title="Filmes: Crime",Imperium: Resistência Sem Líder
 http://main.icontv.in:80/movie/eliellopes/eliel123/32573.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Imprisoned (2019) (Leg)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7pOtIEx0tFkc3LemwJ3FXYQgLoM.jpg" group-title="Filmes: Drama",Imprisoned (2019) (Leg)
-http://main.icontv.in:80/movie/eliellopes/eliel123/70977.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Independence Day" tvg-logo="http://main.icontv.in:80/images/bqLlWZJdhrS0knfEJRkquW7L8z2_small.jpg" group-title="Filmes: Ação",Independence Day
 http://main.icontv.in:80/movie/eliellopes/eliel123/32088.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Independence Day: O Ressurgimento - 2016" tvg-logo="http://main.icontv.in:80/images/f6c95ec0559ecd08cd4cc3aabff48796.jpg" group-title="Filmes: Ação",Independence Day: O Ressurgimento - 2016
@@ -1905,6 +1927,8 @@ http://main.icontv.in:80/movie/eliellopes/eliel123/50619.mkv
 http://main.icontv.in:80/movie/eliellopes/eliel123/71023.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Inocente Ou Culpado" tvg-logo="http://main.icontv.in:80/images/pwwDzbmTErcUFUPCV2fGSlHm4WP_small.jpg" group-title="Filmes: Crime",Inocente Ou Culpado
 http://main.icontv.in:80/movie/eliellopes/eliel123/18030.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Instinto materno (2019) (Audio NOFC)" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/u6UuGujcbR9hGxFgFhkdlj8Preo.jpg" group-title="Filmes: Suspense",Instinto materno (2019) (Audio NOFC)
+http://main.icontv.in:80/movie/eliellopes/eliel123/71103.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Instinto Secreto" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uwgrln1BB1KZqvktSO6HtpW62Qk.jpg" group-title="Filmes: Drama",Instinto Secreto
 http://main.icontv.in:80/movie/eliellopes/eliel123/69174.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Instinto Selvagem" tvg-logo="http://main.icontv.in:80/images/p1DHOfLFZmM567ePKfFNMV4mY92_small.jpg" group-title="Filmes: Suspense",Instinto Selvagem
@@ -1923,6 +1947,10 @@ http://main.icontv.in:80/movie/eliellopes/eliel123/69067.mp4
 http://main.icontv.in:80/movie/eliellopes/eliel123/70917.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Invasão Zumbi" tvg-logo="http://main.icontv.in:80/images/qWOkfCgioLEf3Km9OWva93RYWAc_small.jpg" group-title="Filmes: Terror",Invasão Zumbi
 http://main.icontv.in:80/movie/eliellopes/eliel123/45307.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Invasão à Casa Branca (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6n4rOFg6KDoJXuXmQdh3v82gUyR.jpg" group-title="Filmes: Ação",Invasão à Casa Branca (2013)
+http://main.icontv.in:80/movie/eliellopes/eliel123/71094.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Invasão à Londres (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fMZwFW9pPTxQkX5Dk7HIrOPiz1o.jpg" group-title="Filmes: Ação",Invasão à Londres (2016)
+http://main.icontv.in:80/movie/eliellopes/eliel123/71093.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Invencivel" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yB6K696MEnZ79MBHdr2RvgPRpVL.jpg" group-title="Filmes: Drama",Invencivel
 http://main.icontv.in:80/movie/eliellopes/eliel123/69088.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Invocação do Mal 2" tvg-logo="http://main.icontv.in:80/images/e3lBJCedHnZPfNfmBArKHZXXNC0_small.jpg" group-title="Filmes: Terror",Invocação do Mal 2
@@ -1931,6 +1959,8 @@ http://main.icontv.in:80/movie/eliellopes/eliel123/45317.mp4
 http://main.icontv.in:80/movie/eliellopes/eliel123/57337.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Ip Man 3" tvg-logo="http://main.icontv.in:80/images/3WD6E1QcYQHNMPWXEvtivyQ7waQ_small.jpg" group-title="Filmes: Ação",Ip Man 3
 http://main.icontv.in:80/movie/eliellopes/eliel123/44175.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Irmãs por Acaso(2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tjJ7Qm7G39BKRTOiYtEFxPbhv9g.jpg" group-title="Filmes: Comédia",Irmãs por Acaso(2018)
+http://main.icontv.in:80/movie/eliellopes/eliel123/71233.mp4
 #EXTINF:-1 tvg-id="" tvg-name="ISIS : Terrorismo ao Extremo" tvg-logo="http://main.icontv.in:80/images/e2TzDQLErYgURK4T49QGxpHhdSL_small.jpg" group-title="Filmes: Documentário",ISIS : Terrorismo ao Extremo
 http://main.icontv.in:80/movie/eliellopes/eliel123/47105.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Isolados - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gXaEY4Ebt1Kj8kDS2j9eymr416A.jpg" group-title="Filmes: Crime",Isolados - 2018
@@ -2115,6 +2145,8 @@ http://main.icontv.in:80/movie/eliellopes/eliel123/47113.mp4
 http://main.icontv.in:80/movie/eliellopes/eliel123/44179.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Kung-Fusao" tvg-logo="http://main.icontv.in:80/images/18BmJuz8LgY5GyiRO6H16hN7iWP_small.jpg" group-title="Filmes: Comédia",Kung-Fusao
 http://main.icontv.in:80/movie/eliellopes/eliel123/44180.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KV1 – Almas de Ferro (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6uEnKbYMSp3u5QoqaPo1uH4LVPN.jpg" group-title="Filmes: Guerra",KV1 – Almas de Ferro (2018)
+http://main.icontv.in:80/movie/eliellopes/eliel123/71120.mp4
 #EXTINF:-1 tvg-id="" tvg-name="La Dolce Vita" tvg-logo="http://main.icontv.in:80/images/mZJ25Th65B2KXM57uIiEzO3Aw81_small.jpg" group-title="Filmes: Drama",La Dolce Vita
 http://main.icontv.in:80/movie/eliellopes/eliel123/27602.mp4
 #EXTINF:-1 tvg-id="" tvg-name="La La Land: Cantando Estações" tvg-logo="http://main.icontv.in:80/images/ylXCdC106IKiarftHkcacasaAcb_small.jpg" group-title="Filmes: Comédia",La La Land: Cantando Estações
@@ -2193,6 +2225,8 @@ http://main.icontv.in:80/movie/eliellopes/eliel123/56824.mkv
 http://main.icontv.in:80/movie/eliellopes/eliel123/62919.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Linha Reta - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rJ35aoTEw4M15nTNPY1deo4fDbY.jpg" group-title="Filmes: Suspense",Linha Reta - 2019
 http://main.icontv.in:80/movie/eliellopes/eliel123/69600.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Link Perdido (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4yoHMsJsCt9UNmxa6LR3Vjl2z4.jpg" group-title="Filmes: Animação",Link Perdido (2019)
+http://main.icontv.in:80/movie/eliellopes/eliel123/71106.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Lino" tvg-logo="http://main.icontv.in:80/images/d21rfVSBRvNbOk9m7K7UCgQhA2J_small.jpg" group-title="Filmes: Animação",Lino
 http://main.icontv.in:80/movie/eliellopes/eliel123/38060.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Lion Uma Jornada para Casa" tvg-logo="http://main.icontv.in:80/images/iBGRbLvg6kVc7wbS8wDdVHq6otm_small.jpg" group-title="Filmes: Drama",Lion Uma Jornada para Casa
@@ -2311,6 +2345,8 @@ http://main.icontv.in:80/movie/eliellopes/eliel123/47165.mp4
 http://main.icontv.in:80/movie/eliellopes/eliel123/18028.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Maria do Caritó (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rKhdv1t80EEvsSTidzcR4WgBovq.jpg" group-title="Filmes: Comédia",Maria do Caritó (2019)
 http://main.icontv.in:80/movie/eliellopes/eliel123/71024.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maria e João: O Conto das Bruxas (2020) (CINEMA) (Audio NOFC)" tvg-logo="https://image.tmdb.org/t/p/original/hpjXAk3ceF5Ll7d33crMKfCJXF5.jpg" group-title="Filmes: Terror",Maria e João: O Conto das Bruxas (2020) (CINEMA) (Audio NOFC)
+http://main.icontv.in:80/movie/eliellopes/eliel123/71238.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Marjorie Prime" tvg-logo="http://main.icontv.in:80/images/rvTZFjcNvzPFYJnmdrvSrGvqx67_small.jpg" group-title="Filmes: Drama",Marjorie Prime
 http://main.icontv.in:80/movie/eliellopes/eliel123/62627.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Marla Mae - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kzUs3a73bCIP4P5GFexHVjnLAkl.jpg" group-title="Filmes: Terror",Marla Mae - 2018
@@ -2347,6 +2383,8 @@ http://main.icontv.in:80/movie/eliellopes/eliel123/46848.mp4
 http://main.icontv.in:80/movie/eliellopes/eliel123/56915.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Max & Leon" tvg-logo="http://main.icontv.in:80/images/uopcd7Zhm3v46XuG9gniJ78pDYA_small.jpg" group-title="Filmes: Comédia",Max & Leon
 http://main.icontv.in:80/movie/eliellopes/eliel123/46386.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mayhem - Senhores Do Caos (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i1eTyWkbiapvhTutLcmZXJKPLzO.jpg" group-title="Filmes: Biografia",Mayhem - Senhores Do Caos (2019)
+http://main.icontv.in:80/movie/eliellopes/eliel123/71119.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Maze Runner 3: A Cura Mortal" tvg-logo="http://main.icontv.in:80/images/2zYfzA3TBwrMC8tfFbpiTLODde0_small.jpg" group-title="Filmes: Ação",Maze Runner 3: A Cura Mortal
 http://main.icontv.in:80/movie/eliellopes/eliel123/27052.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Maze Runner A Cura Mortal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fOGtuC11sy3L4o2vJDdJqISakxF.jpg" group-title="Filmes: Ação",Maze Runner A Cura Mortal
@@ -2369,6 +2407,8 @@ http://main.icontv.in:80/movie/eliellopes/eliel123/19390.mp4
 http://main.icontv.in:80/movie/eliellopes/eliel123/45308.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Medo Profundo" tvg-logo="http://main.icontv.in:80/images/2IgdRUTdHyoI3nFORcnnYEKOGIH_small.jpg" group-title="Filmes: Terror",Medo Profundo
 http://main.icontv.in:80/movie/eliellopes/eliel123/33547.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Medo Profundo: O Segundo Ataque (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mIzmRFJWjMiC0EgFu0kEjFFm221.jpg" group-title="Filmes: Terror",Medo Profundo: O Segundo Ataque (2019)
+http://main.icontv.in:80/movie/eliellopes/eliel123/71137.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Megan Leavey" tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/yq66hYkXFaj2DDqCkF6T2wT7VxQ.jpg" group-title="Filmes: Biografia",Megan Leavey
 http://main.icontv.in:80/movie/eliellopes/eliel123/38008.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Megarromântico" tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/y8Do066qGx8LNEMYAGZAaNADQC8.jpg" group-title="Filmes: Comédia",Megarromântico
@@ -2405,6 +2445,8 @@ http://main.icontv.in:80/movie/eliellopes/eliel123/25897.mp4
 http://main.icontv.in:80/movie/eliellopes/eliel123/22508.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Meu Mestre Minha Vida" tvg-logo="http://main.icontv.in:80/images/oFGnvc58Ashxfbp3HDFhhlSGT0W_small.jpg" group-title="Filmes: Drama",Meu Mestre Minha Vida
 http://main.icontv.in:80/movie/eliellopes/eliel123/61453.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Meu Nome é Dolemite (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sZuQkwHEiXxWN3W2Z8cJelKWbRE.jpg" group-title="Filmes: Comédia",Meu Nome é Dolemite (2019)
+http://main.icontv.in:80/movie/eliellopes/eliel123/71236.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Meu Nome É Emily (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yvySuiux1gIQzLp8MGthfMc3z1j.jpg" group-title="Filmes: Drama",Meu Nome É Emily (2016)
 http://main.icontv.in:80/movie/eliellopes/eliel123/71047.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Meu nome é Jeeg Robot" tvg-logo="http://main.icontv.in:80/images/5V54GvHclEuO4qJ13tEaFqaFTxP_small.jpg" group-title="Filmes: Ação",Meu nome é Jeeg Robot
@@ -2485,10 +2527,14 @@ http://main.icontv.in:80/movie/eliellopes/eliel123/32051.mp4
 http://main.icontv.in:80/movie/eliellopes/eliel123/70560.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mistério no Mediterrâneo - 2019" tvg-logo="http://main.icontv.in:80/images/675f76becfa33f7eedfbbb3aa553bdce.jpg" group-title="Filmes: Comédia",Mistério no Mediterrâneo - 2019
 http://main.icontv.in:80/movie/eliellopes/eliel123/69684.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mnemophrenia (2019) (Leg)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bApJbsRg74BJIWo6aWSAthrpbsR.jpg" group-title="Filmes: Drama",Mnemophrenia (2019) (Leg)
+http://main.icontv.in:80/movie/eliellopes/eliel123/71059.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Moana" tvg-logo="http://main.icontv.in:80/images/z4x0Bp48ar3Mda8KiPD1vwSY3D8_small.jpg" group-title="Filmes: Animação",Moana
 http://main.icontv.in:80/movie/eliellopes/eliel123/27610.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Modo Avião - 2020" tvg-logo="http://main.icontv.in:80/images/1ee458dcb30215a71aea9eda7b863bf1.jpg" group-title="Filmes: Comédia",Modo Avião - 2020
 http://main.icontv.in:80/movie/eliellopes/eliel123/70930.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mogli - O Menino Lobo (1967)" tvg-logo="http://main.icontv.in:80/images/79382b884c713e82b82f6ac92a96857e.jpg" group-title="Filmes: Animação",Mogli - O Menino Lobo (1967)
+http://main.icontv.in:80/movie/eliellopes/eliel123/71188.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mogli: Entre Dois Mundos" tvg-logo="http://main.icontv.in:80/images/clRnzMsFoMIdC7I5JsG6dnnHH8l_small.jpg" group-title="Filmes: Aventura",Mogli: Entre Dois Mundos
 http://main.icontv.in:80/movie/eliellopes/eliel123/50765.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mohawk" tvg-logo="http://main.icontv.in:80/images/wGcDLqbQ2mVX7NhzU70noTUwGJa_small.jpg" group-title="Filmes: Ação",Mohawk
@@ -2515,6 +2561,8 @@ http://main.icontv.in:80/movie/eliellopes/eliel123/60277.mp4
 http://main.icontv.in:80/movie/eliellopes/eliel123/62983.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mulan" tvg-logo="http://main.icontv.in:80/images/vXjfMyXHixdEEkqcuWS6hy3EZAG_small.jpg" group-title="Filmes: Animação",Mulan
 http://main.icontv.in:80/movie/eliellopes/eliel123/22505.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mulan (1998)" tvg-logo="http://main.icontv.in:80/images/f6aa70035694b82d8fc874b3df6536e9.jpg" group-title="Filmes: Animação",Mulan (1998)
+http://main.icontv.in:80/movie/eliellopes/eliel123/71189.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mulan II" tvg-logo="http://main.icontv.in:80/images/ebuRP7g3tJlLxeejylu4Wx4Qsjv_small.jpg" group-title="Filmes: Animação",Mulan II
 http://main.icontv.in:80/movie/eliellopes/eliel123/44363.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mulher Maravilha" tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/6zdtqaXLXAKrHoYMUS5likXs5yO.jpg" group-title="Filmes: Animação",Mulher Maravilha
@@ -2689,6 +2737,12 @@ http://main.icontv.in:80/movie/eliellopes/eliel123/48599.mkv
 http://main.icontv.in:80/movie/eliellopes/eliel123/46454.mp4
 #EXTINF:-1 tvg-id="" tvg-name="O Beijo do Vampiro" tvg-logo="http://main.icontv.in:80/images/oUrphKci0e2GyFaInyJLvr8Gbi3_small.jpg" group-title="Filmes: Suspense",O Beijo do Vampiro
 http://main.icontv.in:80/movie/eliellopes/eliel123/61485.avi
+#EXTINF:-1 tvg-id="" tvg-name="O Bicho Vai Pegar (2006)" tvg-logo="http://main.icontv.in:80/images/092984f589466cba8e562ff8a2f30045.jpg" group-title="Filmes: Animação",O Bicho Vai Pegar (2006)
+http://main.icontv.in:80/movie/eliellopes/eliel123/71192.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Bicho Vai Pegar 2 (2008)" tvg-logo="http://main.icontv.in:80/images/0105dfc8a35c5b988fad42f78ba386fc.jpg" group-title="Filmes: Animação",O Bicho Vai Pegar 2 (2008)
+http://main.icontv.in:80/movie/eliellopes/eliel123/71190.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Bicho Vai Pegar 3 (2010)" tvg-logo="http://main.icontv.in:80/images/4d58519f670c3cbc6429ad704c573f1b.jpg" group-title="Filmes: Animação",O Bicho Vai Pegar 3 (2010)
+http://main.icontv.in:80/movie/eliellopes/eliel123/71191.mkv
 #EXTINF:-1 tvg-id="" tvg-name="O Bicho Vai Pegar 4" tvg-logo="http://main.icontv.in:80/images/1ma0lXsFyWYkxdLkvnwW3Y9GTrR_small.jpg" group-title="Filmes: Animação",O Bicho Vai Pegar 4
 http://main.icontv.in:80/movie/eliellopes/eliel123/45312.mp4
 #EXTINF:-1 tvg-id="" tvg-name="O Bom Dinossauro" tvg-logo="http://main.icontv.in:80/images/2ZckiMTfSkCep2JTtZbr73tnQbN_small.jpg" group-title="Filmes: Animação",O Bom Dinossauro
@@ -2705,8 +2759,6 @@ http://main.icontv.in:80/movie/eliellopes/eliel123/18027.mp4
 http://main.icontv.in:80/movie/eliellopes/eliel123/45839.mp4
 #EXTINF:-1 tvg-id="" tvg-name="O Carro Sinistro" tvg-logo="http://main.icontv.in:80/images/vkeBhwkp4RyFNcZalTvKGrhZlUs_small.jpg" group-title="Filmes: Terror",O Carro Sinistro
 http://main.icontv.in:80/movie/eliellopes/eliel123/44132.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Caso Richard Jewell - 2019 (Audio NOFC)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8t00sQPe2IgPNLnKmG1EnPUu7Ua.jpg" group-title="Filmes: Drama",O Caso Richard Jewell - 2019 (Audio NOFC)
-http://main.icontv.in:80/movie/eliellopes/eliel123/70623.mkv
 #EXTINF:-1 tvg-id="" tvg-name="O Cavaleiro Solitário: Clint Eastwood" tvg-logo="http://main.icontv.in:80/images/_small.jpg" group-title="Filmes: Faroeste",O Cavaleiro Solitário: Clint Eastwood
 http://main.icontv.in:80/movie/eliellopes/eliel123/59941.mkv
 #EXTINF:-1 tvg-id="" tvg-name="O Chamado 3" tvg-logo="http://main.icontv.in:80/images/GpeJ2melM6AzQt9bA4GW1pv9bKn8V6g3.jpg" group-title="Filmes: Terror",O Chamado 3
@@ -2741,8 +2793,6 @@ http://main.icontv.in:80/movie/eliellopes/eliel123/32090.mp4
 http://main.icontv.in:80/movie/eliellopes/eliel123/32076.mp4
 #EXTINF:-1 tvg-id="" tvg-name="O Crime Da Gávea" tvg-logo="http://main.icontv.in:80/images/aJ5zn73AmeSvmOYQC1uEkPllHSF_small.jpg" group-title="Filmes: Drama",O Crime Da Gávea
 http://main.icontv.in:80/movie/eliellopes/eliel123/42844.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Cântico dos Nomes (2019) (CINEMA) (Leg)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6zxqUH68CglUN4biBMZLZC9Ipft.jpg" group-title="Filmes: Drama",O Cântico dos Nomes (2019) (CINEMA) (Leg)
-http://main.icontv.in:80/movie/eliellopes/eliel123/71032.mp4
 #EXTINF:-1 tvg-id="" tvg-name="O Céu a Mão Armada" tvg-logo="http://main.icontv.in:80/images/ve5iGWSpjmMovvTYOLhWVCEzFYL_small.jpg" group-title="Filmes: Faroeste",O Céu a Mão Armada
 http://main.icontv.in:80/movie/eliellopes/eliel123/61553.mkv
 #EXTINF:-1 tvg-id="" tvg-name="O Céu de Tóquio à Noite é Sempre do Mais Denso Tom de Azul" tvg-logo="http://main.icontv.in:80/images/wjecdrHTUsXDMsjCTEfz2QFRqDX_small.jpg" group-title="Filmes: Drama",O Céu de Tóquio à Noite é Sempre do Mais Denso Tom de Azul
@@ -3049,6 +3099,8 @@ http://main.icontv.in:80/movie/eliellopes/eliel123/47370.mp4
 http://main.icontv.in:80/movie/eliellopes/eliel123/50752.mkv
 #EXTINF:-1 tvg-id="" tvg-name="O Príncipe do Natal: O Casamento Real" tvg-logo="http://main.icontv.in:80/images/26X0iff17g5cW51QPBFYWED541N_small.jpg" group-title="Filmes: Romance",O Príncipe do Natal: O Casamento Real
 http://main.icontv.in:80/movie/eliellopes/eliel123/50719.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Príncipe Feliz (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rUm6Xt0aO5vZyeFKAnz9PKc7njL.jpg" group-title="Filmes: Drama",O Príncipe Feliz (2018)
+http://main.icontv.in:80/movie/eliellopes/eliel123/71138.mp4
 #EXTINF:-1 tvg-id="" tvg-name="O Quarto de Jack" tvg-logo="http://main.icontv.in:80/images/eqFckcHuFCT1FrzLOAvXBb4jHwq_small.jpg" group-title="Filmes: Drama",O Quarto de Jack
 http://main.icontv.in:80/movie/eliellopes/eliel123/61475.mp4
 #EXTINF:-1 tvg-id="" tvg-name="O que as Mulheres querem" tvg-logo="http://br.web.img3.acsta.net/pictures/15/06/12/14/24/118077.jpg" group-title="Filmes: Comédia",O que as Mulheres querem
@@ -3069,7 +3121,7 @@ http://main.icontv.in:80/movie/eliellopes/eliel123/38017.mp4
 http://main.icontv.in:80/movie/eliellopes/eliel123/44861.mp4
 #EXTINF:-1 tvg-id="" tvg-name="O Rei" tvg-logo="http://main.icontv.in:80/images/QdQOEA3t6vAzAarkAYvxP4kGSnHVAWDr.jpg" group-title="Filmes: Drama",O Rei
 http://main.icontv.in:80/movie/eliellopes/eliel123/68342.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei da Montanha" tvg-logo="http://main.icontv.in:80/images/w0xFAhB4hhKQXqayZzTnUjA5RyB_small.jpg" group-title="Filmes: Aventura",O Rei da Montanha
+#EXTINF:-1 tvg-id="" tvg-name="O Rei da Montanha (Audio NOFC)" tvg-logo="http://main.icontv.in:80/images/w0xFAhB4hhKQXqayZzTnUjA5RyB_small.jpg" group-title="Filmes: Aventura",O Rei da Montanha (Audio NOFC)
 http://main.icontv.in:80/movie/eliellopes/eliel123/47152.mp4
 #EXTINF:-1 tvg-id="" tvg-name="O Rei Leão" tvg-logo="http://main.icontv.in:80/images/bKPtXn9n4M4s8vvZrbw40mYsefB_small.jpg" group-title="Filmes: Animação",O Rei Leão
 http://main.icontv.in:80/movie/eliellopes/eliel123/36026.mp4
@@ -3153,6 +3205,8 @@ http://main.icontv.in:80/movie/eliellopes/eliel123/60294.mkv
 http://main.icontv.in:80/movie/eliellopes/eliel123/49392.mkv
 #EXTINF:-1 tvg-id="" tvg-name="O Touro Ferdinando" tvg-logo="http://main.icontv.in:80/images/bLL4kb9ulojQCRjVSPps0NscCF5_small.jpg" group-title="Filmes: Animação",O Touro Ferdinando
 http://main.icontv.in:80/movie/eliellopes/eliel123/20307.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Traidor (2019) (Audio NOFC)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/czU0R9bi0hRNRwklDEW1MBdRnp8.jpg" group-title="Filmes: Crime",O Traidor (2019) (Audio NOFC)
+http://main.icontv.in:80/movie/eliellopes/eliel123/71239.mp4
 #EXTINF:-1 tvg-id="" tvg-name="O Tratamento" tvg-logo="http://main.icontv.in:80/images/nzVhjAjEaugzs0CSmEO50W5mTcc_small.jpg" group-title="Filmes: Mistério",O Tratamento
 http://main.icontv.in:80/movie/eliellopes/eliel123/49248.mkv
 #EXTINF:-1 tvg-id="" tvg-name="O Troco" tvg-logo="http://main.icontv.in:80/images/6wvtqAKsMso4oKTCmAlKtV2W0Zy_small.jpg" group-title="Filmes: Drama",O Troco
@@ -3207,6 +3261,8 @@ http://main.icontv.in:80/movie/eliellopes/eliel123/46432.mp4
 http://main.icontv.in:80/movie/eliellopes/eliel123/46433.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Olhos Famintos 3" tvg-logo="http://main.icontv.in:80/images/j49G5F7dZVeGzAB8Fnc2GdzO1T_small.jpg" group-title="Filmes: Terror",Olhos Famintos 3
 http://main.icontv.in:80/movie/eliellopes/eliel123/45915.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Oliver e Sua Turma (1988)" tvg-logo="http://main.icontv.in:80/images/4e34b6a53839f2ee742bba2476fe9f77.jpg" group-title="Filmes: Animação",Oliver e Sua Turma (1988)
+http://main.icontv.in:80/movie/eliellopes/eliel123/71193.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Oliver!" tvg-logo="http://main.icontv.in:80/images/t44XtV1pNAKYrb5jIRFpcBo0XSe_small.jpg" group-title="Filmes: Drama",Oliver!
 http://main.icontv.in:80/movie/eliellopes/eliel123/18046.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Onda de Choque" tvg-logo="http://main.icontv.in:80/images/7et6IyecuIZI7DbV7tl92dbYyNQHN4Lj.jpg" group-title="Filmes: Ação",Onda de Choque
@@ -3377,6 +3433,8 @@ http://main.icontv.in:80/movie/eliellopes/eliel123/51151.mp4
 http://main.icontv.in:80/movie/eliellopes/eliel123/59863.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Pari" tvg-logo="http://main.icontv.in:80/images/togwv0TGqXkIA2YuYIY9VDLEkdF_small.jpg" group-title="Filmes: Terror",Pari
 http://main.icontv.in:80/movie/eliellopes/eliel123/38974.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Partida Fria (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lFWfBvqi6g7pWk19XJBpFZcpxKg.jpg" group-title="Filmes: Suspense",Partida Fria (2019)
+http://main.icontv.in:80/movie/eliellopes/eliel123/71216.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Passaro do Oriente" tvg-logo="http://main.icontv.in:80/images/SvfUmrtVFOTtrFq9SwRkTYMQCqnkqcj3.jpg" group-title="Filmes: Drama",Passaro do Oriente
 http://main.icontv.in:80/movie/eliellopes/eliel123/68377.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Patch Adams: O Amor É Contagioso" tvg-logo="http://main.icontv.in:80/images/2T0Mj8gkTXgciedz8W5nsnjCHig_small.jpg" group-title="Filmes: Comédia",Patch Adams: O Amor É Contagioso
@@ -3393,6 +3451,8 @@ http://main.icontv.in:80/movie/eliellopes/eliel123/46457.mp4
 http://main.icontv.in:80/movie/eliellopes/eliel123/69601.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Paul, Apostle Of Christ" tvg-logo="http://main.icontv.in:80/images/2NUXG94dGMKYgJL1BkJGKynMb3l_small.jpg" group-title="Filmes: História",Paul, Apostle Of Christ
 http://main.icontv.in:80/movie/eliellopes/eliel123/37702.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Paulo, Apóstolo de Cristo (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6J8IDXJlURmOwX3KnfYitSr7QbR.jpg" group-title="Filmes: História",Paulo, Apóstolo de Cristo (2018)
+http://main.icontv.in:80/movie/eliellopes/eliel123/71104.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Paz, Amor e Muito Mais" tvg-logo="http://main.icontv.in:80/images/_small.jpg" group-title="Filmes: Comédia",Paz, Amor e Muito Mais
 http://main.icontv.in:80/movie/eliellopes/eliel123/46497.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Pecado Original" tvg-logo="http://main.icontv.in:80/images/yGis1Mai4ivspEXdWtXLg0bZPkX_small.jpg" group-title="Filmes: Suspense",Pecado Original
@@ -3485,6 +3545,8 @@ http://main.icontv.in:80/movie/eliellopes/eliel123/69064.mp4
 http://main.icontv.in:80/movie/eliellopes/eliel123/69193.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Pocahontas" tvg-logo="http://main.icontv.in:80/images/qk95miOV8wDABbO5gyCpCrvbVFu_small.jpg" group-title="Filmes: Animação",Pocahontas
 http://main.icontv.in:80/movie/eliellopes/eliel123/22497.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pocahontas (1995)" tvg-logo="http://main.icontv.in:80/images/64636f091f1030826ee76075d4d645d5.jpg" group-title="Filmes: Animação",Pocahontas (1995)
+http://main.icontv.in:80/movie/eliellopes/eliel123/71194.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Poderia me Perdoar" tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/19/01/28/14/51/0332319.jpg" group-title="Filmes: Drama",Poderia me Perdoar
 http://main.icontv.in:80/movie/eliellopes/eliel123/63224.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Poderoso Joe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf9SNccnxQjjtR6tYkmNtKtnc4AQvaItkhQwY81btU_cgbkVYs" group-title="Filmes: Ação",Poderoso Joe
@@ -3547,8 +3609,6 @@ http://main.icontv.in:80/movie/eliellopes/eliel123/69867.mp4
 http://main.icontv.in:80/movie/eliellopes/eliel123/71026.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Presságio" tvg-logo="http://main.icontv.in:80/images/5XnNteYoOQ727JoZqyVcENT28Dv_small.jpg" group-title="Filmes: Ação",Presságio
 http://main.icontv.in:80/movie/eliellopes/eliel123/59796.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Prey - 2019 (Audio NOFC)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ae5F9tHvFYqSqAMMFXfk41hMlv1.jpg" group-title="Filmes: Terror",Prey - 2019 (Audio NOFC)
-http://main.icontv.in:80/movie/eliellopes/eliel123/70492.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Primal - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v0Air5GTsfgtjsnZyji2lH6r2b8.jpg" group-title="Filmes: Ação",Primal - 2019
 http://main.icontv.in:80/movie/eliellopes/eliel123/69283.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Princesa Encantada – Um Mistério Real" tvg-logo="http://main.icontv.in:80/images/ljktBZh0wM8yVZcgMt3i43sjkdy_small.jpg" group-title="Filmes: Animação",Princesa Encantada – Um Mistério Real
@@ -3601,6 +3661,8 @@ http://main.icontv.in:80/movie/eliellopes/eliel123/69279.mp4
 http://main.icontv.in:80/movie/eliellopes/eliel123/50723.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Quando as Luzes se apagam" tvg-logo="http://main.icontv.in:80/images/sXqrTXcBf9TdIv5rfgeFNu9Iwu7_small.jpg" group-title="Filmes: Terror",Quando as Luzes se apagam
 http://main.icontv.in:80/movie/eliellopes/eliel123/49244.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Quando Lembro de Chico (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mxgxmlg4inLsKp9vW9FdV9iVgDK.jpg" group-title="Filmes: Drama",Quando Lembro de Chico (2019)
+http://main.icontv.in:80/movie/eliellopes/eliel123/71244.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Quando Um Estranho Chama" tvg-logo="http://main.icontv.in:80/images/pYxd8DM4qBV24rJ9Jf84SYtIao1_small.jpg" group-title="Filmes: Terror",Quando Um Estranho Chama
 http://main.icontv.in:80/movie/eliellopes/eliel123/21588.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Quarentena" tvg-logo="http://main.icontv.in:80/images/diJgLy6vSGbNYNW5jZ1YpX7PHJ4_small.jpg" group-title="Filmes: Terror",Quarentena
@@ -3627,8 +3689,12 @@ http://main.icontv.in:80/movie/eliellopes/eliel123/68402.mp4
 http://main.icontv.in:80/movie/eliellopes/eliel123/57873.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Quem Você Levaria para uma Ilha Deserta" tvg-logo="http://main.icontv.in:80/images/f4mNHOpEbx68j0yaNdme6b07WPC_small.jpg" group-title="Filmes: Comédia",Quem Você Levaria para uma Ilha Deserta
 http://main.icontv.in:80/movie/eliellopes/eliel123/62716.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Quem Você Pensa que Sou? (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rj0j9thBfwPIgiJQzZECp5PVbhF.jpg" group-title="Filmes: Drama",Quem Você Pensa que Sou? (2019)
+http://main.icontv.in:80/movie/eliellopes/eliel123/71235.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Querido Ditador" tvg-logo="http://main.icontv.in:80/images/2YFCAAZUUpj66gLAMqRhwpY1U34_small.jpg" group-title="Filmes: Comédia",Querido Ditador
 http://main.icontv.in:80/movie/eliellopes/eliel123/42581.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Racetime - Hora da Corrida (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h98OTTJVPHC1zwg6L49w2XxKSzS.jpg" group-title="Filmes: Animação",Racetime - Hora da Corrida (2018)
+http://main.icontv.in:80/movie/eliellopes/eliel123/71136.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Radius" tvg-logo="http://main.icontv.in:80/images/_small.jpg" group-title="Filmes: Fantasia",Radius
 http://main.icontv.in:80/movie/eliellopes/eliel123/46479.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Rain Man" tvg-logo="http://main.icontv.in:80/images/A9XB6BmDlxqag4EFG4aM8R08B5t_small.jpg" group-title="Filmes: Drama",Rain Man
@@ -3709,8 +3775,6 @@ http://main.icontv.in:80/movie/eliellopes/eliel123/60298.mkv
 http://main.icontv.in:80/movie/eliellopes/eliel123/45314.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Revolt" tvg-logo="http://main.icontv.in:80/images/eM2zipCkAXhp0BZF2noDp7bRFgV_small.jpg" group-title="Filmes: Ação",Revolt
 http://main.icontv.in:80/movie/eliellopes/eliel123/27985.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ring Ring - 2019 (CINEMA)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dWa1WgNbAyLeH9VRaQrfQBX97pn.jpg" group-title="Filmes: Ação",Ring Ring - 2019 (CINEMA)
-http://main.icontv.in:80/movie/eliellopes/eliel123/69809.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Riot" tvg-logo="http://main.icontv.in:80/images/zSouWWrySXshPCT4t3UKCQGayyo_small.jpg" group-title="Filmes: Ação",Riot
 http://main.icontv.in:80/movie/eliellopes/eliel123/47403.mp4
 #EXTINF:-1 tvg-id="" tvg-name="RIPD: Agentes do Além" tvg-logo="http://main.icontv.in:80/images/ldBBulVDkifYnT501PWXIvtCgmO_small.jpg" group-title="Filmes: Fantasia",RIPD: Agentes do Além
@@ -3719,6 +3783,8 @@ http://main.icontv.in:80/movie/eliellopes/eliel123/60297.mp4
 http://main.icontv.in:80/movie/eliellopes/eliel123/49242.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Ritimo do Amor" tvg-logo="http://main.icontv.in:80/images/aVrXvwXAsYAjs82IAmYsIg89upi_small.jpg" group-title="Filmes: Romance",Ritimo do Amor
 http://main.icontv.in:80/movie/eliellopes/eliel123/57906.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Robin Hood (1973)" tvg-logo="http://main.icontv.in:80/images/5a5bba9505dd2eef404ebdcf641292c3.jpg" group-title="Filmes: Animação",Robin Hood (1973)
+http://main.icontv.in:80/movie/eliellopes/eliel123/71195.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Robin Hood: A Origem" tvg-logo="http://main.icontv.in:80/images/AiRfixFcfTkNbn2A73qVJPlpkUo_small.jpg" group-title="Filmes: Aventura",Robin Hood: A Origem
 http://main.icontv.in:80/movie/eliellopes/eliel123/50743.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Robo-Dog" tvg-logo="http://main.icontv.in:80/images/urSD987IHIBRFEBkIF0hG2obUr4_small.jpg" group-title="Filmes: Familia",Robo-Dog
@@ -3773,8 +3839,6 @@ http://main.icontv.in:80/movie/eliellopes/eliel123/37731.mp4
 http://main.icontv.in:80/movie/eliellopes/eliel123/36032.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Santuário" tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/3oMRRs85SMYhWllMH2LagfkCoMN.jpg" group-title="Filmes: Ação",Santuário
 http://main.icontv.in:80/movie/eliellopes/eliel123/62030.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sapatinho Vermelho e os Sete Anões - 2019 (CINEMA) (Leg)" tvg-logo="https://spinoff.com.br/wp-content/uploads/sapatinhosvermelhosteaserposter.jpg" group-title="Filmes: Animação",Sapatinho Vermelho e os Sete Anões - 2019 (CINEMA) (Leg)
-http://main.icontv.in:80/movie/eliellopes/eliel123/70871.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Satânico" tvg-logo="http://main.icontv.in:80/images/ii9kWdyB8dyAekx5dQ6f2kU88Sy_small.jpg" group-title="Filmes: Terror",Satânico
 http://main.icontv.in:80/movie/eliellopes/eliel123/59866.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Scarborough" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8kshwubYfwLbvZXN4JXY0uKhviC.jpg" group-title="Filmes: Romance",Scarborough
@@ -3801,6 +3865,8 @@ http://main.icontv.in:80/movie/eliellopes/eliel123/18077.mp4
 http://main.icontv.in:80/movie/eliellopes/eliel123/18052.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Seed 2" tvg-logo="http://main.icontv.in:80/images/qBP44cQsJxwDQOogJANQr4jDrmF_small.jpg" group-title="Filmes: Terror",Seed 2
 http://main.icontv.in:80/movie/eliellopes/eliel123/46529.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Segredos Noturnos (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kBZwHDX6K5DuQs2gfU4Q2pRvKfS.jpg" group-title="Filmes: Suspense",Segredos Noturnos (2018)
+http://main.icontv.in:80/movie/eliellopes/eliel123/71118.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Segredos Oficiais (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oir3fmegKofO0VoADz5jDIYdYk4.jpg" group-title="Filmes: Drama",Segredos Oficiais (2019)
 http://main.icontv.in:80/movie/eliellopes/eliel123/71025.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Segurando as Pontas - 2008" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mm0Lo9Htsew9cnqUJVRoQ1JcMTM.jpg" group-title="Filmes: Ação",Segurando as Pontas - 2008
@@ -4461,6 +4527,8 @@ http://main.icontv.in:80/movie/eliellopes/eliel123/62951.mp4
 http://main.icontv.in:80/movie/eliellopes/eliel123/42906.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Tarzan" tvg-logo="http://main.icontv.in:80/images/hnTrfKJmnPLMTajHw2RDgv6hVyH_small.jpg" group-title="Filmes: Animação",Tarzan
 http://main.icontv.in:80/movie/eliellopes/eliel123/22489.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tarzan (1999)" tvg-logo="http://main.icontv.in:80/images/2c926099ef2ade13fbe99cbe124a3861.jpg" group-title="Filmes: Animação",Tarzan (1999)
+http://main.icontv.in:80/movie/eliellopes/eliel123/71196.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Taxi - 2004" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Ly55SeRBozH3ZBeSOodcgKGYlF.jpg" group-title="Filmes: Ação",Taxi - 2004
 http://main.icontv.in:80/movie/eliellopes/eliel123/69479.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Te Amarei Para Sempre - 2009" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4sgGhVUq5xFgltRZoh9JCiKRXT.jpg" group-title="Filmes: Romance",Te Amarei Para Sempre - 2009
@@ -4645,8 +4713,6 @@ http://main.icontv.in:80/movie/eliellopes/eliel123/38983.mp4
 http://main.icontv.in:80/movie/eliellopes/eliel123/18194.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Troia" tvg-logo="http://main.icontv.in:80/images/edMlij7nw2NMla32xskDnzMCFBM_small.jpg" group-title="Filmes: Ação",Troia
 http://main.icontv.in:80/movie/eliellopes/eliel123/26967.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Trois jours et une vie - 2019 (Leg)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yVYUTo5UPKKtvLY6C2tG9rSeF3p.jpg" group-title="Filmes: Suspense",Trois jours et une vie - 2019 (Leg)
-http://main.icontv.in:80/movie/eliellopes/eliel123/70913.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Tropa De Elite 1" tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/aC3jPhRSSg9k0y7vibjw6PlEYwN.jpg" group-title="Filmes: Ação",Tropa De Elite 1
 http://main.icontv.in:80/movie/eliellopes/eliel123/24392.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Tropa de Elite 2 :O Inimigo agora é outro" tvg-logo="http://main.icontv.in:80/images/65Uy9xucPOAZDKa54RlojVyP24k_small.jpg" group-title="Filmes: Ação",Tropa de Elite 2 :O Inimigo agora é outro
@@ -4683,6 +4749,8 @@ http://main.icontv.in:80/movie/eliellopes/eliel123/22491.mp4
 http://main.icontv.in:80/movie/eliellopes/eliel123/22490.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Táxi 5 - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lXeSraLgsLaeXRg6vEHv4tBrXxc.jpg" group-title="Filmes: Comédia",Táxi 5 - 2018
 http://main.icontv.in:80/movie/eliellopes/eliel123/70628.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tô Ryca! (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2eKX2mFZsWtFWMDvStVlbVOeHfM.jpg" group-title="Filmes: Comédia",Tô Ryca! (2016)
+http://main.icontv.in:80/movie/eliellopes/eliel123/71197.mp4
 #EXTINF:-1 tvg-id="" tvg-name="UFO Estamos Sozinhos" tvg-logo="http://main.icontv.in:80/images/jdy1GTdaAXqhsCVOpIXokifYdCh_small.jpg" group-title="Filmes: Ficção",UFO Estamos Sozinhos
 http://main.icontv.in:80/movie/eliellopes/eliel123/62214.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Um Acampamento Do Barulho" tvg-logo="http://main.icontv.in:80/images/e5AG8ESF1JpG3A8AFKoUC1WztsD_small.jpg" group-title="Filmes: Familia",Um Acampamento Do Barulho
@@ -4721,6 +4789,8 @@ http://main.icontv.in:80/movie/eliellopes/eliel123/63037.mkv
 http://main.icontv.in:80/movie/eliellopes/eliel123/18056.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Um Laço De Amor" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8EAXtAJ8kLsUVR1SCWaUqcESreR.jpg" group-title="Filmes: Drama",Um Laço De Amor
 http://main.icontv.in:80/movie/eliellopes/eliel123/69173.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Lindo Dia na Vizinhança (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/brIz5GGAJ1QKzsM0ampsJKl5vZY.jpg" group-title="Filmes: Drama",Um Lindo Dia na Vizinhança (2019)
+http://main.icontv.in:80/movie/eliellopes/eliel123/71116.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Um Lugar Silencioso" tvg-logo="http://main.icontv.in:80/images/nAU74GmpUk7t5iklEp3bufwDq4n_small.jpg" group-title="Filmes: Drama",Um Lugar Silencioso
 http://main.icontv.in:80/movie/eliellopes/eliel123/39675.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Um Monstro Em Paris" tvg-logo="http://main.icontv.in:80/images/bEqkbV0bYIDWpu2dMc1Zy3aFHhT_small.jpg" group-title="Filmes: Animação",Um Monstro Em Paris
@@ -4785,6 +4855,8 @@ http://main.icontv.in:80/movie/eliellopes/eliel123/44314.mp4
 http://main.icontv.in:80/movie/eliellopes/eliel123/38034.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Uma Mulher Fantástica" tvg-logo="http://main.icontv.in:80/images/x2yNruMR8bAJOIQ3wd7HR9qWjW3_small.jpg" group-title="Filmes: Drama",Uma Mulher Fantástica
 http://main.icontv.in:80/movie/eliellopes/eliel123/46583.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Mulher normal (2019) (Audio NOFC)" tvg-logo="https://corinthfilms.com/wp-content/uploads/2020/01/a-regular-woman-1052x1520-1.jpg?189db0&189db0" group-title="Filmes: Drama",Uma Mulher normal (2019) (Audio NOFC)
+http://main.icontv.in:80/movie/eliellopes/eliel123/71060.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Uma Noiva E Tanto" tvg-logo="http://main.icontv.in:80/images/3dkBFXZKlpdVizQkaQzRQgsUlcL_small.jpg" group-title="Filmes: Comédia",Uma Noiva E Tanto
 http://main.icontv.in:80/movie/eliellopes/eliel123/18072.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Uma nova Chance" tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/uA27XpN136dBkexULs9kNg9OiGQ.jpg" group-title="Filmes: Romance",Uma nova Chance
@@ -4847,8 +4919,6 @@ http://main.icontv.in:80/movie/eliellopes/eliel123/57908.mp4
 http://main.icontv.in:80/movie/eliellopes/eliel123/17149.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Venom" tvg-logo="http://main.icontv.in:80/images/2uNW4WbgBXL25BAbXGLnLqX71Sw_small.jpg" group-title="Filmes: Ação",Venom
 http://main.icontv.in:80/movie/eliellopes/eliel123/49170.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Venom ( Leg )" tvg-logo="http://main.icontv.in:80/images/2uNW4WbgBXL25BAbXGLnLqX71Sw_small.jpg" group-title="Filmes: Ação",Venom ( Leg )
-http://main.icontv.in:80/movie/eliellopes/eliel123/50745.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Ventos da Liberdade" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/izWKxlRJk1zgqLgrW6faZSZ0K0k.jpg" group-title="Filmes: Suspense",Ventos da Liberdade
 http://main.icontv.in:80/movie/eliellopes/eliel123/69189.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Vera: Sonhos de Inverno" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4cVaOohDeUTGdXnTFT8w0pyRmqN.jpg" group-title="Filmes: Familia",Vera: Sonhos de Inverno
