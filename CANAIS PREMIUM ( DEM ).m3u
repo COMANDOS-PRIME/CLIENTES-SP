@@ -127,14 +127,28 @@ http://main.icontv.in:80/live/eliellopes/eliel123/62895.m3u8
 http://main.icontv.in:80/live/eliellopes/eliel123/61698.m3u8
 #EXTINF:-1 tvg-id="Comedy Central | HD" tvg-name="COMEDY CENTRAL SD " tvg-logo="http://img.brgo.xyz/img/comedycentral.png" group-title="Comédia",COMEDY CENTRAL SD
 http://main.icontv.in:80/live/eliellopes/eliel123/62894.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COPA CATARINENSE 01 HD" tvg-logo="http://img.brgo.xyz/img/catarinenseSa.jpg" group-title="Esportes",COPA CATARINENSE 01 HD
+http://main.icontv.in:80/live/eliellopes/eliel123/71320.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COPA CATARINENSE 01 SD" tvg-logo="http://img.brgo.xyz/img/catarinenseSa.jpg" group-title="Esportes",COPA CATARINENSE 01 SD
+http://main.icontv.in:80/live/eliellopes/eliel123/71321.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COPA NORDESTE 01 HD" tvg-logo="http://img.brgo.xyz/img/copaNordeste.jpg" group-title="Esportes",COPA NORDESTE 01 HD
+http://main.icontv.in:80/live/eliellopes/eliel123/71297.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COPA NORDESTE 01 HD" tvg-logo="http://img.brgo.xyz/img/copaNordeste.jpg" group-title="Esportes",COPA NORDESTE 01 HD
+http://main.icontv.in:80/live/eliellopes/eliel123/71298.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COPA NORDESTE 02 HD" tvg-logo="http://img.brgo.xyz/img/copaNordeste.jpg" group-title="Esportes",COPA NORDESTE 02 HD
+http://main.icontv.in:80/live/eliellopes/eliel123/71318.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COPA NORDESTE 02 SD" tvg-logo="http://img.brgo.xyz/img/copaNordeste.jpg" group-title="Esportes",COPA NORDESTE 02 SD
+http://main.icontv.in:80/live/eliellopes/eliel123/71319.m3u8
 #EXTINF:-1 tvg-id="Curta ! | SD" tvg-name="CURTA SD " tvg-logo="http://img.brgo.xyz/img/curta.png" group-title="Variedades / Música",CURTA SD
 http://main.icontv.in:80/live/eliellopes/eliel123/62893.m3u8
 #EXTINF:-1 tvg-id="Curta ! | SD" tvg-name="CURTA! HD " tvg-logo="http://img.brgo.xyz/img/curta.png" group-title="Variedades / Música",CURTA! HD
 http://main.icontv.in:80/live/eliellopes/eliel123/68326.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DAZN FHD" tvg-logo="" group-title="Esportes",DAZN FHD
-http://main.icontv.in:80/live/eliellopes/eliel123/70839.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DAZN SD" tvg-logo="" group-title="Esportes",DAZN SD
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 01 HD" tvg-logo="http://img.brgo.xyz/img/dazn.png" group-title="Esportes",DAZN 01 HD
 http://main.icontv.in:80/live/eliellopes/eliel123/70838.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 02 HD" tvg-logo="http://img.brgo.xyz/img/dazn.png" group-title="Esportes",DAZN 02 HD
+http://main.icontv.in:80/live/eliellopes/eliel123/70839.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 03 SD" tvg-logo="http://img.brgo.xyz/img/dazn.png" group-title="Esportes",DAZN 03 SD
+http://main.icontv.in:80/live/eliellopes/eliel123/71101.m3u8
 #EXTINF:-1 tvg-id="Discovery Channel | HD" tvg-name="DISCOVERY CHANNEL HD " tvg-logo="http://img.brgo.xyz/img/discoverychannel.png" group-title="Documentários",DISCOVERY CHANNEL HD
 http://main.icontv.in:80/live/eliellopes/eliel123/61697.m3u8
 #EXTINF:-1 tvg-id="Discovery Channel | SD" tvg-name="DISCOVERY CHANNEL SD " tvg-logo="http://img.brgo.xyz/img/discoverychannel.png" group-title="Documentários",DISCOVERY CHANNEL SD
@@ -183,6 +197,14 @@ http://main.icontv.in:80/live/eliellopes/eliel123/62884.m3u8
 http://main.icontv.in:80/live/eliellopes/eliel123/61686.m3u8
 #EXTINF:-1 tvg-id="E! | HD" tvg-name="E! SD " tvg-logo="http://img.brgo.xyz/img/e!.png" group-title="Variedades / Música",E! SD
 http://main.icontv.in:80/live/eliellopes/eliel123/62883.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EIPLUS 01 HD" tvg-logo="http://icontv.in/tBuhQ" group-title="Esportes",EIPLUS 01 HD
+http://main.icontv.in:80/live/eliellopes/eliel123/71099.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EIPLUS 01 SD" tvg-logo="http://icontv.in/tBuhQ" group-title="Esportes",EIPLUS 01 SD
+http://main.icontv.in:80/live/eliellopes/eliel123/71098.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EIPLUS HD" tvg-logo="http://icontv.in/tBuhQ" group-title="Esportes",EIPLUS HD
+http://main.icontv.in:80/live/eliellopes/eliel123/71096.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EIPLUS SD" tvg-logo="http://icontv.in/tBuhQ" group-title="Esportes",EIPLUS SD
+http://main.icontv.in:80/live/eliellopes/eliel123/71097.m3u8
 #EXTINF:-1 tvg-id="FX" tvg-name="ESPN 2 HD " tvg-logo="http://img.brgo.xyz/img/espn2.png" group-title="Esportes",ESPN 2 HD
 http://main.icontv.in:80/live/eliellopes/eliel123/61683.m3u8
 #EXTINF:-1 tvg-id="ESPN Brasil | HD" tvg-name="ESPN BRASIL HD " tvg-logo="http://img.brgo.xyz/img/espnbrasil.png" group-title="Esportes",ESPN BRASIL HD
@@ -323,6 +345,8 @@ http://main.icontv.in:80/live/eliellopes/eliel123/62834.m3u8
 http://main.icontv.in:80/live/eliellopes/eliel123/62832.m3u8
 #EXTINF:-1 tvg-id="Globo PA | SD" tvg-name="GLOBO TV BELEM HD" tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="Canais Globo",GLOBO TV BELEM HD
 http://main.icontv.in:80/live/eliellopes/eliel123/69219.m3u8
+#EXTINF:-1 tvg-id="Globo São Jose do Rio Preto | SD" tvg-name="GLOBO TV TEM RIO PRETO SD" tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="Canais Globo",GLOBO TV TEM RIO PRETO SD
+http://main.icontv.in:80/live/eliellopes/eliel123/71910.m3u8
 #EXTINF:-1 tvg-id="Globo Vanguarda dos Campos | SD" tvg-name="GLOBO VANGUARDA S.J CAMPOS SD " tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="Canais Globo",GLOBO VANGUARDA S.J CAMPOS SD
 http://main.icontv.in:80/live/eliellopes/eliel123/62831.m3u8
 #EXTINF:-1 tvg-id="Globo Vanguarda dos Campos | SD" tvg-name="GLOBO VANGUARDA TAUBATE SD " tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="Canais Globo",GLOBO VANGUARDA TAUBATE SD
@@ -415,6 +439,16 @@ http://main.icontv.in:80/live/eliellopes/eliel123/61642.m3u8
 http://main.icontv.in:80/live/eliellopes/eliel123/62808.m3u8
 #EXTINF:-1 tvg-id="Music Box Brazil | SD" tvg-name="MUSIC BOX BRASIL SD " tvg-logo="http://img.brgo.xyz/img/musicboxbrazil.png" group-title="Variedades / Música",MUSIC BOX BRASIL SD
 http://main.icontv.in:80/live/eliellopes/eliel123/62807.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Musicas: Eletro" tvg-logo="https://img.vagalume.fm/146411300413492499/default" group-title="Musicas",Musicas: Eletro
+http://main.icontv.in:80/live/eliellopes/eliel123/71385.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Musicas: Forró" tvg-logo="https://img.vagalume.fm/147015501223418/bg" group-title="Musicas",Musicas: Forró
+http://main.icontv.in:80/live/eliellopes/eliel123/71042.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Musicas: Funk" tvg-logo="https://img.vagalume.fm/1470154922349875/bg" group-title="Musicas",Musicas: Funk
+http://main.icontv.in:80/live/eliellopes/eliel123/71061.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Musicas: Pagode" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG_1mF1FbX-Vyh_8QrHoFlp4XmtqqTHeMAFQ54FhLkNOfv1Pcikw&s" group-title="Musicas",Musicas: Pagode
+http://main.icontv.in:80/live/eliellopes/eliel123/71043.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Musicas: POP" tvg-logo="https://img.vagalume.fm/1470169276225492/default" group-title="Musicas",Musicas: POP
+http://main.icontv.in:80/live/eliellopes/eliel123/71062.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Musicas: Sertanejo" tvg-logo="https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/1922071_1534771420094156_6394651083295723682_n.png?_nc_cat=101&_nc_ohc=shM37Jl2gI0AX9k9QUr&_nc_ht=scontent-lga3-1.xx&oh=54d3993ebe90729cf96bc97ab0e8aee5&oe=5E9AD699" group-title="Musicas",Musicas: Sertanejo
 http://main.icontv.in:80/live/eliellopes/eliel123/70786.m3u8
 #EXTINF:-1 tvg-id="NatGeo Kids | HD" tvg-name="NATGEO HD " tvg-logo="http://img.brgo.xyz/img/natgeohd.png" group-title="Documentários",NATGEO HD
@@ -429,7 +463,7 @@ http://main.icontv.in:80/live/eliellopes/eliel123/62805.m3u8
 http://main.icontv.in:80/live/eliellopes/eliel123/61639.m3u8
 #EXTINF:-1 tvg-id="NATGEOWILDHD" tvg-name="NATGEO WILD SD " tvg-logo="http://img.brgo.xyz/img/natgeowild.png" group-title="Documentários",NATGEO WILD SD
 http://main.icontv.in:80/live/eliellopes/eliel123/62804.m3u8
-#EXTINF:-1 tvg-id="NBR" tvg-name="NBR SD " tvg-logo="http://img.brgo.xyz/img/nbr.png" group-title="Notícias",NBR SD
+#EXTINF:-1 tvg-id="A&E | FHD" tvg-name="NBR SD " tvg-logo="http://img.brgo.xyz/img/nbr.png" group-title="Notícias",NBR SD
 http://main.icontv.in:80/live/eliellopes/eliel123/62803.m3u8
 #EXTINF:-1 tvg-id="NHK | SD" tvg-name="NHK HD " tvg-logo="http://img.brgo.xyz/img/nhk.png" group-title="Notícias",NHK HD
 http://main.icontv.in:80/live/eliellopes/eliel123/68316.m3u8
@@ -575,9 +609,9 @@ http://main.icontv.in:80/live/eliellopes/eliel123/62765.m3u8
 http://main.icontv.in:80/live/eliellopes/eliel123/61610.m3u8
 #EXTINF:-1 tvg-id="SporTV | HD" tvg-name="SPORTV SD " tvg-logo="http://img.brgo.xyz/img/sportv.png" group-title="Esportes",SPORTV SD
 http://main.icontv.in:80/live/eliellopes/eliel123/62764.m3u8
-#EXTINF:-1 tvg-id="FX" tvg-name="STUDIO UNIVERSAL HD " tvg-logo="http://img.brgo.xyz/img/studiouniversalhd.png" group-title="Filmes / Séries",STUDIO UNIVERSAL HD
+#EXTINF:-1 tvg-id="Studio Universal | FHD" tvg-name="STUDIO UNIVERSAL HD " tvg-logo="http://img.brgo.xyz/img/studiouniversalhd.png" group-title="Filmes / Séries",STUDIO UNIVERSAL HD
 http://main.icontv.in:80/live/eliellopes/eliel123/61609.m3u8
-#EXTINF:-1 tvg-id="FX" tvg-name="STUDIO UNIVERSAL SD " tvg-logo="http://img.brgo.xyz/img/studiouniversal.png" group-title="Filmes / Séries",STUDIO UNIVERSAL SD
+#EXTINF:-1 tvg-id="Studio Universal | FHD" tvg-name="STUDIO UNIVERSAL SD " tvg-logo="http://img.brgo.xyz/img/studiouniversal.png" group-title="Filmes / Séries",STUDIO UNIVERSAL SD
 http://main.icontv.in:80/live/eliellopes/eliel123/62763.m3u8
 #EXTINF:-1 tvg-id="FX" tvg-name="SYFY HD " tvg-logo="http://img.brgo.xyz/img/syfy.png" group-title="Filmes / Séries",SYFY HD
 http://main.icontv.in:80/live/eliellopes/eliel123/61608.m3u8
@@ -619,13 +653,13 @@ http://main.icontv.in:80/live/eliellopes/eliel123/62754.m3u8
 http://main.icontv.in:80/live/eliellopes/eliel123/61599.m3u8
 #EXTINF:-1 tvg-id="A&E | FHD" tvg-name="TLC SD " tvg-logo="http://img.brgo.xyz/img/tlc.png" group-title="Documentários",TLC SD
 http://main.icontv.in:80/live/eliellopes/eliel123/62752.m3u8
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT HD " tvg-logo="http://img.brgo.xyz/img/tnthd.png" group-title="Filmes / Séries",TNT HD
+#EXTINF:-1 tvg-id="TNT | FHD" tvg-name="TNT HD " tvg-logo="http://img.brgo.xyz/img/tnthd.png" group-title="Filmes / Séries",TNT HD
 http://main.icontv.in:80/live/eliellopes/eliel123/61598.m3u8
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT SD " tvg-logo="http://img.brgo.xyz/img/tnt.png" group-title="Filmes / Séries",TNT SD
+#EXTINF:-1 tvg-id="TNT | FHD" tvg-name="TNT SD " tvg-logo="http://img.brgo.xyz/img/tnt.png" group-title="Filmes / Séries",TNT SD
 http://main.icontv.in:80/live/eliellopes/eliel123/62751.m3u8
-#EXTINF:-1 tvg-id="FX" tvg-name="TNT SERIES HD " tvg-logo="http://img.brgo.xyz/img/tntserieshd.png" group-title="Filmes / Séries",TNT SERIES HD
+#EXTINF:-1 tvg-id="TNT Series | HD" tvg-name="TNT SERIES HD " tvg-logo="http://img.brgo.xyz/img/tntserieshd.png" group-title="Filmes / Séries",TNT SERIES HD
 http://main.icontv.in:80/live/eliellopes/eliel123/61597.m3u8
-#EXTINF:-1 tvg-id="FX" tvg-name="TNT SERIES SD " tvg-logo="http://img.brgo.xyz/img/tntseries.png" group-title="Filmes / Séries",TNT SERIES SD
+#EXTINF:-1 tvg-id="TNT Series | SD" tvg-name="TNT SERIES SD " tvg-logo="http://img.brgo.xyz/img/tntseries.png" group-title="Filmes / Séries",TNT SERIES SD
 http://main.icontv.in:80/live/eliellopes/eliel123/62750.m3u8
 #EXTINF:-1 tvg-id="FX" tvg-name="TOONCAST HD " tvg-logo="http://img.brgo.xyz/img/tooncast.png" group-title="Kids",TOONCAST HD
 http://main.icontv.in:80/live/eliellopes/eliel123/61596.m3u8
@@ -635,6 +669,8 @@ http://main.icontv.in:80/live/eliellopes/eliel123/62749.m3u8
 http://main.icontv.in:80/live/eliellopes/eliel123/69240.m3u8
 #EXTINF:-1 tvg-id="TRUTV" tvg-name="TRUTV SD " tvg-logo="http://img.brgo.xyz/img/trutv.png" group-title="Comédia",TRUTV SD
 http://main.icontv.in:80/live/eliellopes/eliel123/62748.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV ACRITICA" tvg-logo="" group-title="Canais Abertos",TV ACRITICA
+http://main.icontv.in:80/live/eliellopes/eliel123/71115.m3u8
 #EXTINF:-1 tvg-id="APARECIDA" tvg-name="TV APARECIDA HD " tvg-logo="http://img.brgo.xyz/img/aparecida.png" group-title="Religioso",TV APARECIDA HD
 http://main.icontv.in:80/live/eliellopes/eliel123/68313.m3u8
 #EXTINF:-1 tvg-id="FX" tvg-name="TV APARECIDA SD " tvg-logo="http://img.brgo.xyz/img/aparecida.png" group-title="Religioso",TV APARECIDA SD
@@ -651,6 +687,8 @@ http://main.icontv.in:80/live/eliellopes/eliel123/23786.m3u8
 http://main.icontv.in:80/live/eliellopes/eliel123/61595.m3u8
 #EXTINF:-1 tvg-id="TVRTIMBUM" tvg-name="TV RA TIM BUM SD " tvg-logo="http://img.brgo.xyz/img/tvratimbum.png" group-title="Kids",TV RA TIM BUM SD
 http://main.icontv.in:80/live/eliellopes/eliel123/62736.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV RIO PRETO HD" tvg-logo="http://tvriopreto.com.br/novalogopreta.jpg" group-title="Canais Abertos",TV RIO PRETO HD
+http://main.icontv.in:80/live/eliellopes/eliel123/71909.m3u8
 #EXTINF:-1 tvg-id="TV5MONDE" tvg-name="TV5 SD " tvg-logo="http://img.brgo.xyz/img/tv5monde.png" group-title="Notícias",TV5 SD
 http://main.icontv.in:80/live/eliellopes/eliel123/62734.m3u8
 #EXTINF:-1 tvg-id="TVESPANHA" tvg-name="TVE SD " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSIrWN5FmaEIXxMiu7fGcoXgk_PsFBvjVRPrZdG87paqcW--Xw" group-title="Variedades / Música",TVE SD
@@ -677,10 +715,8 @@ http://main.icontv.in:80/live/eliellopes/eliel123/62728.m3u8
 http://main.icontv.in:80/live/eliellopes/eliel123/68328.m3u8
 #EXTINF:-1 tvg-id="ZOOMOO" tvg-name="ZOOMOO SD " tvg-logo="http://img.brgo.xyz/img/Zoomoo_logo.png" group-title="Kids",ZOOMOO SD
 http://main.icontv.in:80/live/eliellopes/eliel123/62727.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Musicas: Forró" tvg-logo="https://img.vagalume.fm/147015501223418/bg" group-title="Musicas",Musicas: Forró
-http://main.icontv.in:80/live/eliellopes/eliel123/71042.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Musicas: Pagode" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG_1mF1FbX-Vyh_8QrHoFlp4XmtqqTHeMAFQ54FhLkNOfv1Pcikw&s" group-title="Musicas",Musicas: Pagode
-http://main.icontv.in:80/live/eliellopes/eliel123/71043.m3u8
+#EXTINF:-1 tvg-id="TV Senado | SD" tvg-name="TV SENADO SD" tvg-logo="http://img.brgo.xyz/img/tvsenado.png" group-title="Notícias",TV SENADO SD
+http://main.icontv.in:80/live/eliellopes/eliel123/71911.m3u8
 #EXTINF:-1 tvg-id="A&E | FHD" tvg-name="A&E FHD  " tvg-logo="http://img.brgo.xyz/img/aandehd.png" group-title="Filmes / Séries",A&E FHD
 http://main.icontv.in:80/live/eliellopes/eliel123/61906.m3u8
 #EXTINF:-1 tvg-id="AMC | FHD" tvg-name="AMC FHD " tvg-logo="http://img.brgo.xyz/img/amchd.png" group-title="Filmes / Séries",AMC FHD
@@ -721,6 +757,8 @@ http://main.icontv.in:80/live/eliellopes/eliel123/61894.m3u8
 http://main.icontv.in:80/live/eliellopes/eliel123/61893.m3u8
 #EXTINF:-1 tvg-id="Curta ! | SD" tvg-name="CURTA! FHD" tvg-logo="http://img.brgo.xyz/img/curta.png" group-title="Variedades / Música",CURTA! FHD
 http://main.icontv.in:80/live/eliellopes/eliel123/69208.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 03 FHD" tvg-logo="http://img.brgo.xyz/img/dazn.png" group-title="Esportes",DAZN 03 FHD
+http://main.icontv.in:80/live/eliellopes/eliel123/71100.m3u8
 #EXTINF:-1 tvg-id="Discovery Channel | FHD" tvg-name="DISCOVERY CHANNEL FHD  " tvg-logo="http://img.brgo.xyz/img/discoverychannel.png" group-title="Documentários",DISCOVERY CHANNEL FHD
 http://main.icontv.in:80/live/eliellopes/eliel123/61892.m3u8
 #EXTINF:-1 tvg-id="Discovery Civilization | HD" tvg-name="DISCOVERY CIVILIZATION FHD  " tvg-logo="http://img.brgo.xyz/img/discoverycivilization.png" group-title="Documentários",DISCOVERY CIVILIZATION FHD
@@ -903,7 +941,7 @@ http://main.icontv.in:80/live/eliellopes/eliel123/61838.m3u8
 http://main.icontv.in:80/live/eliellopes/eliel123/61837.m3u8
 #EXTINF:-1 tvg-id="SporTV | HD" tvg-name="SPORTV FHD  " tvg-logo="http://img.brgo.xyz/img/sportv.png" group-title="Esportes",SPORTV FHD
 http://main.icontv.in:80/live/eliellopes/eliel123/61836.m3u8
-#EXTINF:-1 tvg-id="FX" tvg-name="STUDIO UNIVERSAL FHD  " tvg-logo="http://img.brgo.xyz/img/studiouniversalhd.png" group-title="Filmes / Séries",STUDIO UNIVERSAL FHD
+#EXTINF:-1 tvg-id="Studio Universal | FHD" tvg-name="STUDIO UNIVERSAL FHD  " tvg-logo="http://img.brgo.xyz/img/studiouniversalhd.png" group-title="Filmes / Séries",STUDIO UNIVERSAL FHD
 http://main.icontv.in:80/live/eliellopes/eliel123/61835.m3u8
 #EXTINF:-1 tvg-id="FX" tvg-name="SYFY FHD  " tvg-logo="http://img.brgo.xyz/img/syfy.png" group-title="Filmes / Séries",SYFY FHD
 http://main.icontv.in:80/live/eliellopes/eliel123/61834.m3u8
@@ -925,9 +963,9 @@ http://main.icontv.in:80/live/eliellopes/eliel123/61829.m3u8
 http://main.icontv.in:80/live/eliellopes/eliel123/61828.m3u8
 #EXTINF:-1 tvg-id="TLC | FHD" tvg-name="TLC FHD" tvg-logo="http://img.brgo.xyz/img/tlc.png" group-title="Variedades / Música",TLC FHD
 http://main.icontv.in:80/live/eliellopes/eliel123/69237.m3u8
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT FHD  " tvg-logo="http://img.brgo.xyz/img/tnthd.png" group-title="Filmes / Séries",TNT FHD
+#EXTINF:-1 tvg-id="TNT | FHD" tvg-name="TNT FHD  " tvg-logo="http://img.brgo.xyz/img/tnthd.png" group-title="Filmes / Séries",TNT FHD
 http://main.icontv.in:80/live/eliellopes/eliel123/61827.m3u8
-#EXTINF:-1 tvg-id="FX" tvg-name="TNT SERIES FHD  " tvg-logo="http://img.brgo.xyz/img/tntserieshd.png" group-title="Filmes / Séries",TNT SERIES FHD
+#EXTINF:-1 tvg-id="TNT Series | FHD" tvg-name="TNT SERIES FHD  " tvg-logo="http://img.brgo.xyz/img/tntserieshd.png" group-title="Filmes / Séries",TNT SERIES FHD
 http://main.icontv.in:80/live/eliellopes/eliel123/61826.m3u8
 #EXTINF:-1 tvg-id="Tooncast | SD" tvg-name="TOONCAST FHD" tvg-logo="http://img.brgo.xyz/img/tooncast.png" group-title="Kids",TOONCAST FHD
 http://main.icontv.in:80/live/eliellopes/eliel123/69238.m3u8
@@ -951,6 +989,8 @@ http://main.icontv.in:80/live/eliellopes/eliel123/70574.m3u8
 http://main.icontv.in:80/live/eliellopes/eliel123/69114.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24Hs: A Pantera Cor de Rosa" tvg-logo="http://main.icontv.in:80/images/367d1e6831a24c68012d48ec49c31382.jpg" group-title="Canais 24 horas",24Hs: A Pantera Cor de Rosa
 http://main.icontv.in:80/live/eliellopes/eliel123/69594.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24Hs: ALF o ETeimoso" tvg-logo="http://main.icontv.in:80/images/d2ce38955ad28ce29c158e6c37793358.jpg" group-title="Canais 24 horas",24Hs: ALF o ETeimoso
+http://main.icontv.in:80/live/eliellopes/eliel123/71649.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24Hs: As Meninas Super Poderosas" tvg-logo="http://main.icontv.in:80/images/26c364202faec39596193e4f99a3bbd0.jpg" group-title="Canais 24 horas",24Hs: As Meninas Super Poderosas
 http://main.icontv.in:80/live/eliellopes/eliel123/69135.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24Hs: As Múmias Vivas" tvg-logo="http://main.icontv.in:80/images/08934a49931484e71b5636a87db1f073.jpg" group-title="Canais 24 horas",24Hs: As Múmias Vivas
@@ -965,6 +1005,8 @@ http://main.icontv.in:80/live/eliellopes/eliel123/69138.m3u8
 http://main.icontv.in:80/live/eliellopes/eliel123/69115.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24Hs: BobZoom" tvg-logo="http://main.icontv.in:80/images/84d56202f383c6dcf5ee4964466012d1.jpg" group-title="Canais 24 horas",24Hs: BobZoom
 http://main.icontv.in:80/live/eliellopes/eliel123/69117.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24Hs: Capitão Caverna" tvg-logo="https://www.animeshd.biz/images/covers/capity-o-caverna.webp" group-title="Canais 24 horas",24Hs: Capitão Caverna
+http://main.icontv.in:80/live/eliellopes/eliel123/71651.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24Hs: Capitão PLaneta" tvg-logo="http://main.icontv.in:80/images/cc105721d900571e541cbc0a610fa928.jpg" group-title="Canais 24 horas",24Hs: Capitão PLaneta
 http://main.icontv.in:80/live/eliellopes/eliel123/69139.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24Hs: Carmen San Diego" tvg-logo="http://main.icontv.in:80/images/55412eba5577f14c43c6e302c90cfc44.jpg" group-title="Canais 24 horas",24Hs: Carmen San Diego
@@ -973,6 +1015,8 @@ http://main.icontv.in:80/live/eliellopes/eliel123/69597.m3u8
 http://main.icontv.in:80/live/eliellopes/eliel123/70270.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24Hs: Cars Toon - Mate" tvg-logo="http://main.icontv.in:80/images/3bd7d3f9bdaafe1ed7c43677fe13ecd6.jpg" group-title="Canais 24 horas",24Hs: Cars Toon - Mate
 http://main.icontv.in:80/live/eliellopes/eliel123/69147.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24Hs: Caverna do Dragão" tvg-logo="http://main.icontv.in:80/images/6fbcf85090f9965d249ef669f823a989.jpg" group-title="Canais 24 horas",24Hs: Caverna do Dragão
+http://main.icontv.in:80/live/eliellopes/eliel123/71647.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24Hs: Chaves" tvg-logo="http://main.icontv.in:80/images/000cde871a8700d99765316e998a5b64.jpg" group-title="Canais 24 horas",24Hs: Chaves
 http://main.icontv.in:80/live/eliellopes/eliel123/70778.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24Hs: Chaves Desenho" tvg-logo="http://main.icontv.in:80/images/02e943cb6e972276008372e743727b57.png" group-title="Canais 24 horas",24Hs: Chaves Desenho
@@ -983,6 +1027,8 @@ http://main.icontv.in:80/live/eliellopes/eliel123/70241.m3u8
 http://main.icontv.in:80/live/eliellopes/eliel123/69596.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24Hs: Deby e Loyd" tvg-logo="http://main.icontv.in:80/images/62c1c55f8a8f16cd01ca157c3d823792.jpg" group-title="Canais 24 horas",24Hs: Deby e Loyd
 http://main.icontv.in:80/live/eliellopes/eliel123/69140.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24Hs: Denis O Pimentinha" tvg-logo="http://main.icontv.in:80/images/8ec2bbf9724ceed56a032d1b65cda04a.jpg" group-title="Canais 24 horas",24Hs: Denis O Pimentinha
+http://main.icontv.in:80/live/eliellopes/eliel123/71600.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24Hs: Diego GO!" tvg-logo="http://main.icontv.in:80/images/078c007bd92ddec308ae2f5115c1775d.png" group-title="Canais 24 horas",24Hs: Diego GO!
 http://main.icontv.in:80/live/eliellopes/eliel123/69119.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24Hs: Digimon" tvg-logo="http://main.icontv.in:80/images/74c710f721b44679579b7fb6092741bd.jpg" group-title="Canais 24 horas",24Hs: Digimon
@@ -991,6 +1037,8 @@ http://main.icontv.in:80/live/eliellopes/eliel123/70774.m3u8
 http://main.icontv.in:80/live/eliellopes/eliel123/69120.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24Hs: Doug" tvg-logo="http://main.icontv.in:80/images/b07b89b1d596bc0d32cbabed34147efd.jpg" group-title="Canais 24 horas",24Hs: Doug
 http://main.icontv.in:80/live/eliellopes/eliel123/69141.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24Hs: Dragons Rescue Riders" tvg-logo="http://main.icontv.in:80/images/5d2ea51ee6a0ec83fc2edcf984425949.png" group-title="Canais 24 horas",24Hs: Dragons Rescue Riders
+http://main.icontv.in:80/live/eliellopes/eliel123/71388.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24Hs: DuckTales" tvg-logo="http://main.icontv.in:80/images/4464324029ae8af0c5c971de9b5deb19.jpg" group-title="Canais 24 horas",24Hs: DuckTales
 http://main.icontv.in:80/live/eliellopes/eliel123/70773.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24Hs: Familia Addams" tvg-logo="http://main.icontv.in:80/images/89577f1df4808a9d2b964919791c08d8.jpg" group-title="Canais 24 horas",24Hs: Familia Addams
@@ -1001,6 +1049,8 @@ http://main.icontv.in:80/live/eliellopes/eliel123/69122.m3u8
 http://main.icontv.in:80/live/eliellopes/eliel123/70785.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24Hs: Homem de Ferro" tvg-logo="http://main.icontv.in:80/images/59a12e7330ab0cf07409e5d128975391.jpg" group-title="Canais 24 horas",24Hs: Homem de Ferro
 http://main.icontv.in:80/live/eliellopes/eliel123/70783.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24Hs: Hora da Aventura" tvg-logo="http://main.icontv.in:80/images/8463593e98a87fac623f09699b12b456.png" group-title="Canais 24 horas",24Hs: Hora da Aventura
+http://main.icontv.in:80/live/eliellopes/eliel123/71597.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24Hs: Invasor Zim" tvg-logo="http://main.icontv.in:80/images/7cd8b6d29ae6b78b86e1a92081e4f277.jpg" group-title="Canais 24 horas",24Hs: Invasor Zim
 http://main.icontv.in:80/live/eliellopes/eliel123/69142.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24Hs: Jackie Chan Aventures" tvg-logo="http://main.icontv.in:80/images/03d79861491acb6f548b135a6ba868b4.jpg" group-title="Canais 24 horas",24Hs: Jackie Chan Aventures
@@ -1011,16 +1061,36 @@ http://main.icontv.in:80/live/eliellopes/eliel123/69134.m3u8
 http://main.icontv.in:80/live/eliellopes/eliel123/69143.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24Hs: Josie e as Gatinhas" tvg-logo="http://main.icontv.in:80/images/b40b8a76a4887f7da60e69e0b23150f6.jpg" group-title="Canais 24 horas",24Hs: Josie e as Gatinhas
 http://main.icontv.in:80/live/eliellopes/eliel123/69144.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24Hs: King Kong" tvg-logo="https://vignette.wikia.nocookie.net/kingkong/images/1/1d/Posterimage.jpeg/revision/latest/scale-to-width-down/340?cb=20160424165346&path-prefix=en" group-title="Canais 24 horas",24Hs: King Kong
+http://main.icontv.in:80/live/eliellopes/eliel123/71640.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24Hs: Lilo e Stitch" tvg-logo="http://main.icontv.in:80/images/57f80f3ef0e863dbfc6ba4007cee853e.jpg" group-title="Canais 24 horas",24Hs: Lilo e Stitch
+http://main.icontv.in:80/live/eliellopes/eliel123/71387.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24Hs: Looney Tunes" tvg-logo="http://main.icontv.in:80/images/37faafea34c76fd9c28139be2708e52d.png" group-title="Canais 24 horas",24Hs: Looney Tunes
+http://main.icontv.in:80/live/eliellopes/eliel123/71641.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24Hs: Manda Chuva" tvg-logo="http://main.icontv.in:80/images/806a7c98901d1c4b6a83bb0016471606.png" group-title="Canais 24 horas",24Hs: Manda Chuva
+http://main.icontv.in:80/live/eliellopes/eliel123/71650.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24Hs: Mickey" tvg-logo="http://main.icontv.in:80/images/177deb4198a4187665308d8eebd044f4.jpg" group-title="Canais 24 horas",24Hs: Mickey
 http://main.icontv.in:80/live/eliellopes/eliel123/69121.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24Hs: Miraculous" tvg-logo="http://main.icontv.in:80/images/91eb1567768352ba85749b952b95f002.png" group-title="Canais 24 horas",24Hs: Miraculous
 http://main.icontv.in:80/live/eliellopes/eliel123/69123.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24Hs: My Little Pony" tvg-logo="http://main.icontv.in:80/images/a914640debc2759e8be617d5c1c6a972.png" group-title="Canais 24 horas",24Hs: My Little Pony
+http://main.icontv.in:80/live/eliellopes/eliel123/71599.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24Hs: Naruto" tvg-logo="http://main.icontv.in:80/images/62b9b999f18fe1955143973ff36d6380.jpg" group-title="Canais 24 horas",24Hs: Naruto
 http://main.icontv.in:80/live/eliellopes/eliel123/69178.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24Hs: Naruto" tvg-logo="http://main.icontv.in:80/images/77dee6d55b7f78eccc1f03ce64a371f6.png" group-title="Canais 24 horas",24Hs: Naruto
+http://main.icontv.in:80/live/eliellopes/eliel123/71644.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24Hs: O Chefinho" tvg-logo="https://api.sparkleapp.com.br/rest/v1/news/104116/download" group-title="Canais 24 horas",24Hs: O Chefinho
 http://main.icontv.in:80/live/eliellopes/eliel123/69494.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24Hs: O Mundo de Bita" tvg-logo="http://main.icontv.in:80/images/e2a00a6481b4654ff0e35325780a0d10.jpg" group-title="Canais 24 horas",24Hs: O Mundo de Bita
 http://main.icontv.in:80/live/eliellopes/eliel123/69116.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24Hs: Os Cavaleiros do Zodiaco" tvg-logo="http://main.icontv.in:80/images/eeffb0e3c3754c7941d6cdef845b71eb.png" group-title="Canais 24 horas",24Hs: Os Cavaleiros do Zodiaco
+http://main.icontv.in:80/live/eliellopes/eliel123/71646.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24Hs: Os Flintstones" tvg-logo="http://main.icontv.in:80/images/f5122fab66f255fc667832a33203a2ce.png" group-title="Canais 24 horas",24Hs: Os Flintstones
+http://main.icontv.in:80/live/eliellopes/eliel123/71645.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24Hs: Os Jetsons" tvg-logo="http://main.icontv.in:80/images/752cf92e14083e2e4faf638862fd30a4.jpg" group-title="Canais 24 horas",24Hs: Os Jetsons
+http://main.icontv.in:80/live/eliellopes/eliel123/71601.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24Hs: Os Jovens Titãs" tvg-logo="http://main.icontv.in:80/images/cdd94fcbd753c1c875a8d794a02fbcaa.png" group-title="Canais 24 horas",24Hs: Os Jovens Titãs
+http://main.icontv.in:80/live/eliellopes/eliel123/71598.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24Hs: Os Vingadores" tvg-logo="http://main.icontv.in:80/images/ac80d594b7dd91ba1caeb234c4343bdf.jpg" group-title="Canais 24 horas",24Hs: Os Vingadores
 http://main.icontv.in:80/live/eliellopes/eliel123/70775.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24Hs: Patrulha Canina" tvg-logo="http://main.icontv.in:80/images/6cdcafdbd3c8856d103b4f1e67ef5e26.jpg" group-title="Canais 24 horas",24Hs: Patrulha Canina
@@ -1033,21 +1103,29 @@ http://main.icontv.in:80/live/eliellopes/eliel123/69268.m3u8
 http://main.icontv.in:80/live/eliellopes/eliel123/70573.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24Hs: Show da Luna" tvg-logo="http://main.icontv.in:80/images/041ab67c36697bf5e8235ae4cdd98bf5.jpg" group-title="Canais 24 horas",24Hs: Show da Luna
 http://main.icontv.in:80/live/eliellopes/eliel123/69125.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24Hs: Simpsons" tvg-logo="http://main.icontv.in:80/images/8a4d4a6207c3edfcefd0ad037dc8cbb9.jpg" group-title="Canais 24 horas",24Hs: Simpsons
+http://main.icontv.in:80/live/eliellopes/eliel123/71643.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24Hs: Sitio do Pica Pau Amarelo" tvg-logo="http://main.icontv.in:80/images/52f2ac824fb718c1abf82cd67faa94fe.jpg" group-title="Canais 24 horas",24Hs: Sitio do Pica Pau Amarelo
+http://main.icontv.in:80/live/eliellopes/eliel123/71602.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24Hs: Snoopy no Espaço" tvg-logo="http://main.icontv.in:80/images/233d9225eee55b5d92775992e1745f1b.jpg" group-title="Canais 24 horas",24Hs: Snoopy no Espaço
 http://main.icontv.in:80/live/eliellopes/eliel123/69179.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24Hs: Speed Racer" tvg-logo="http://main.icontv.in:80/images/c5a3e19ccb5aba2e3159c8dedb5d695a.jpg" group-title="Canais 24 horas",24Hs: Speed Racer
+http://main.icontv.in:80/live/eliellopes/eliel123/71642.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24Hs: Star Wars Clone" tvg-logo="http://main.icontv.in:80/images/00dd5c9b00acb75f6d9a5a2edea872e5.jpg" group-title="Canais 24 horas",24Hs: Star Wars Clone
 http://main.icontv.in:80/live/eliellopes/eliel123/69146.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24Hs: Superman" tvg-logo="http://main.icontv.in:80/images/e08139cac4c34ef00c65ea1e5caf9d1e.jpg" group-title="Canais 24 horas",24Hs: Superman
 http://main.icontv.in:80/live/eliellopes/eliel123/69177.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24Hs: Timão e Pumba" tvg-logo="http://main.icontv.in:80/images/c27cc75afeed12153f654f82a3c1596b.jpg" group-title="Canais 24 horas",24Hs: Timão e Pumba
-http://main.icontv.in:80/live/eliellopes/eliel123/69595.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24Hs: Timão e Pumba" tvg-logo="http://main.icontv.in:80/images/2c88f6839a546497292445baceeb797b.jpg" group-title="Canais 24 horas",24Hs: Timão e Pumba
 http://main.icontv.in:80/live/eliellopes/eliel123/70784.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24Hs: Tom & Jerry" tvg-logo="http://main.icontv.in:80/images/8fa4714f0f40a7e76774aa00339fefd3.jpg" group-title="Canais 24 horas",24Hs: Tom & Jerry
 http://main.icontv.in:80/live/eliellopes/eliel123/69126.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24Hs: Trolls" tvg-logo="https://www.universalstudioshollywood.com/tridiondata/ush/en/us/files/assets/logos/universal-trolls-logo-300x300.png?imwidth=250" group-title="Canais 24 horas",24Hs: Trolls
+http://main.icontv.in:80/live/eliellopes/eliel123/71386.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24Hs: Turma da Monica" tvg-logo="http://main.icontv.in:80/images/474e4554554bf24f159425bce4e9129e.jpg" group-title="Canais 24 horas",24Hs: Turma da Monica
 http://main.icontv.in:80/live/eliellopes/eliel123/69292.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24Hs: Vampirina" tvg-logo="http://main.icontv.in:80/images/f7786552fef3946d8711fc3fb68dbfe1.jpg" group-title="Canais 24 horas",24Hs: Vampirina
 http://main.icontv.in:80/live/eliellopes/eliel123/69127.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24Hs: X Men" tvg-logo="http://main.icontv.in:80/images/f70277b42e41a21f087b780c5bb915ac.jpg" group-title="Canais 24 horas",24Hs: X Men
 http://main.icontv.in:80/live/eliellopes/eliel123/70772.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24Hs: Zé Colmeia" tvg-logo="http://main.icontv.in:80/images/de3cae05a932bd7c034c57b77c3dbd3b.jpg" group-title="Canais 24 horas",24Hs: Zé Colmeia
+http://main.icontv.in:80/live/eliellopes/eliel123/71648.m3u8
